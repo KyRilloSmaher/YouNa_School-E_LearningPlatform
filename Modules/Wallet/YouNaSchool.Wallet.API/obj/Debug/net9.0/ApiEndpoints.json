@@ -1,0 +1,55 @@
+[
+  {
+    "ContainingType": "YouNaSchool.Wallet.API.Controllers.WalletsController",
+    "Method": "GetWalletByStudentId",
+    "RelativePath": "{studentId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "studentId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "YouNaSchool.Wallet.API.Controllers.WalletsController",
+    "Method": "GetWalletLedgerEntries",
+    "RelativePath": "{studentId}/ledger-entries",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "studentId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "YouNaSchool.Wallet.API.Controllers.WalletsController",
+    "Method": "GetAllWallets",
+    "RelativePath": "api/Wallets",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pageNumber",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

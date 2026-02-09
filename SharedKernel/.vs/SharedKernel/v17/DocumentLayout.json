@@ -1,0 +1,402 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\YouNaSchool-ElearninngPlatform\\SharedKernel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A399DD9-435D-4F0F-A156-384F84D99924}|SharedKernel.csproj|e:\\younaschool-elearninngplatform\\sharedkernel\\infrastructure\\file storage\\fileuploadresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A399DD9-435D-4F0F-A156-384F84D99924}|SharedKernel.csproj|solutionrelative:infrastructure\\file storage\\fileuploadresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A399DD9-435D-4F0F-A156-384F84D99924}|SharedKernel.csproj|e:\\younaschool-elearninngplatform\\sharedkernel\\infrastructure\\file storage\\ifilestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A399DD9-435D-4F0F-A156-384F84D99924}|SharedKernel.csproj|solutionrelative:infrastructure\\file storage\\ifilestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A399DD9-435D-4F0F-A156-384F84D99924}|SharedKernel.csproj|e:\\younaschool-elearninngplatform\\sharedkernel\\infrastructure\\file storage\\storagefiletype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A399DD9-435D-4F0F-A156-384F84D99924}|SharedKernel.csproj|solutionrelative:infrastructure\\file storage\\storagefiletype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A399DD9-435D-4F0F-A156-384F84D99924}|SharedKernel.csproj|e:\\younaschool-elearninngplatform\\sharedkernel\\application\\unit of work\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A399DD9-435D-4F0F-A156-384F84D99924}|SharedKernel.csproj|solutionrelative:application\\unit of work\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A399DD9-435D-4F0F-A156-384F84D99924}|SharedKernel.csproj|e:\\younaschool-elearninngplatform\\sharedkernel\\application\\outbox pattern\\ioutboxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A399DD9-435D-4F0F-A156-384F84D99924}|SharedKernel.csproj|solutionrelative:application\\outbox pattern\\ioutboxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A399DD9-435D-4F0F-A156-384F84D99924}|SharedKernel.csproj|e:\\younaschool-elearninngplatform\\sharedkernel\\application\\outbox pattern\\outboxmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A399DD9-435D-4F0F-A156-384F84D99924}|SharedKernel.csproj|solutionrelative:application\\outbox pattern\\outboxmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A399DD9-435D-4F0F-A156-384F84D99924}|SharedKernel.csproj|e:\\younaschool-elearninngplatform\\sharedkernel\\application\\messaging\\ieventbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A399DD9-435D-4F0F-A156-384F84D99924}|SharedKernel.csproj|solutionrelative:application\\messaging\\ieventbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A399DD9-435D-4F0F-A156-384F84D99924}|SharedKernel.csproj|e:\\younaschool-elearninngplatform\\sharedkernel\\application\\messaging\\integrationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A399DD9-435D-4F0F-A156-384F84D99924}|SharedKernel.csproj|solutionrelative:application\\messaging\\integrationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A399DD9-435D-4F0F-A156-384F84D99924}|SharedKernel.csproj|e:\\younaschool-elearninngplatform\\sharedkernel\\application\\messaging\\iintegrationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A399DD9-435D-4F0F-A156-384F84D99924}|SharedKernel.csproj|solutionrelative:application\\messaging\\iintegrationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A399DD9-435D-4F0F-A156-384F84D99924}|SharedKernel.csproj|e:\\younaschool-elearninngplatform\\sharedkernel\\application\\clockandusercontext\\icurrentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A399DD9-435D-4F0F-A156-384F84D99924}|SharedKernel.csproj|solutionrelative:application\\clockandusercontext\\icurrentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A399DD9-435D-4F0F-A156-384F84D99924}|SharedKernel.csproj|e:\\younaschool-elearninngplatform\\sharedkernel\\application\\clockandusercontext\\isystemclock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A399DD9-435D-4F0F-A156-384F84D99924}|SharedKernel.csproj|solutionrelative:application\\clockandusercontext\\isystemclock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A399DD9-435D-4F0F-A156-384F84D99924}|SharedKernel.csproj|e:\\younaschool-elearninngplatform\\sharedkernel\\application\\result pattern\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A399DD9-435D-4F0F-A156-384F84D99924}|SharedKernel.csproj|solutionrelative:application\\result pattern\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A399DD9-435D-4F0F-A156-384F84D99924}|SharedKernel.csproj|e:\\younaschool-elearninngplatform\\sharedkernel\\domain\\value objects\\fileurl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A399DD9-435D-4F0F-A156-384F84D99924}|SharedKernel.csproj|solutionrelative:domain\\value objects\\fileurl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A399DD9-435D-4F0F-A156-384F84D99924}|SharedKernel.csproj|e:\\younaschool-elearninngplatform\\sharedkernel\\domain\\value objects\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A399DD9-435D-4F0F-A156-384F84D99924}|SharedKernel.csproj|solutionrelative:domain\\value objects\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A399DD9-435D-4F0F-A156-384F84D99924}|SharedKernel.csproj|e:\\younaschool-elearninngplatform\\sharedkernel\\domain\\value objects\\money.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A399DD9-435D-4F0F-A156-384F84D99924}|SharedKernel.csproj|solutionrelative:domain\\value objects\\money.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A399DD9-435D-4F0F-A156-384F84D99924}|SharedKernel.csproj|e:\\younaschool-elearninngplatform\\sharedkernel\\domain\\exceptions\\businessruleviolationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A399DD9-435D-4F0F-A156-384F84D99924}|SharedKernel.csproj|solutionrelative:domain\\exceptions\\businessruleviolationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A399DD9-435D-4F0F-A156-384F84D99924}|SharedKernel.csproj|e:\\younaschool-elearninngplatform\\sharedkernel\\domain\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A399DD9-435D-4F0F-A156-384F84D99924}|SharedKernel.csproj|solutionrelative:domain\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A399DD9-435D-4F0F-A156-384F84D99924}|SharedKernel.csproj|e:\\younaschool-elearninngplatform\\sharedkernel\\domain\\events\\eventdomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A399DD9-435D-4F0F-A156-384F84D99924}|SharedKernel.csproj|solutionrelative:domain\\events\\eventdomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A399DD9-435D-4F0F-A156-384F84D99924}|SharedKernel.csproj|e:\\younaschool-elearninngplatform\\sharedkernel\\domain\\events\\idomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A399DD9-435D-4F0F-A156-384F84D99924}|SharedKernel.csproj|solutionrelative:domain\\events\\idomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A399DD9-435D-4F0F-A156-384F84D99924}|SharedKernel.csproj|e:\\younaschool-elearninngplatform\\sharedkernel\\domain\\core abstractions\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A399DD9-435D-4F0F-A156-384F84D99924}|SharedKernel.csproj|solutionrelative:domain\\core abstractions\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A399DD9-435D-4F0F-A156-384F84D99924}|SharedKernel.csproj|e:\\younaschool-elearninngplatform\\sharedkernel\\domain\\core abstractions\\aggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A399DD9-435D-4F0F-A156-384F84D99924}|SharedKernel.csproj|solutionrelative:domain\\core abstractions\\aggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A399DD9-435D-4F0F-A156-384F84D99924}|SharedKernel.csproj|e:\\younaschool-elearninngplatform\\sharedkernel\\domain\\core abstractions\\valueobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A399DD9-435D-4F0F-A156-384F84D99924}|SharedKernel.csproj|solutionrelative:domain\\core abstractions\\valueobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IFileStorage.cs",
+              "DocumentMoniker": "E:\\YouNaSchool-ElearninngPlatform\\SharedKernel\\InfraStructure\\FILE STORAGE\\IFileStorage.cs",
+              "RelativeDocumentMoniker": "InfraStructure\\FILE STORAGE\\IFileStorage.cs",
+              "ToolTip": "E:\\YouNaSchool-ElearninngPlatform\\SharedKernel\\InfraStructure\\FILE STORAGE\\IFileStorage.cs",
+              "RelativeToolTip": "InfraStructure\\FILE STORAGE\\IFileStorage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T18:04:47.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileUploadResult.cs",
+              "DocumentMoniker": "E:\\YouNaSchool-ElearninngPlatform\\SharedKernel\\InfraStructure\\FILE STORAGE\\FileUploadResult.cs",
+              "RelativeDocumentMoniker": "InfraStructure\\FILE STORAGE\\FileUploadResult.cs",
+              "ToolTip": "E:\\YouNaSchool-ElearninngPlatform\\SharedKernel\\InfraStructure\\FILE STORAGE\\FileUploadResult.cs",
+              "RelativeToolTip": "InfraStructure\\FILE STORAGE\\FileUploadResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T18:04:15.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StorageFileType.cs",
+              "DocumentMoniker": "E:\\YouNaSchool-ElearninngPlatform\\SharedKernel\\InfraStructure\\FILE STORAGE\\StorageFileType.cs",
+              "RelativeDocumentMoniker": "InfraStructure\\FILE STORAGE\\StorageFileType.cs",
+              "ToolTip": "E:\\YouNaSchool-ElearninngPlatform\\SharedKernel\\InfraStructure\\FILE STORAGE\\StorageFileType.cs",
+              "RelativeToolTip": "InfraStructure\\FILE STORAGE\\StorageFileType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T18:03:44.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "E:\\YouNaSchool-ElearninngPlatform\\SharedKernel\\Application\\UNIT OF WORK\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Application\\UNIT OF WORK\\IUnitOfWork.cs",
+              "ToolTip": "E:\\YouNaSchool-ElearninngPlatform\\SharedKernel\\Application\\UNIT OF WORK\\IUnitOfWork.cs",
+              "RelativeToolTip": "Application\\UNIT OF WORK\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T18:02:33.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IOutboxService.cs",
+              "DocumentMoniker": "E:\\YouNaSchool-ElearninngPlatform\\SharedKernel\\Application\\OUTBOX PATTERN\\IOutboxService.cs",
+              "RelativeDocumentMoniker": "Application\\OUTBOX PATTERN\\IOutboxService.cs",
+              "ToolTip": "E:\\YouNaSchool-ElearninngPlatform\\SharedKernel\\Application\\OUTBOX PATTERN\\IOutboxService.cs",
+              "RelativeToolTip": "Application\\OUTBOX PATTERN\\IOutboxService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T18:01:54.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OutboxMessage.cs",
+              "DocumentMoniker": "E:\\YouNaSchool-ElearninngPlatform\\SharedKernel\\Application\\OUTBOX PATTERN\\OutboxMessage.cs",
+              "RelativeDocumentMoniker": "Application\\OUTBOX PATTERN\\OutboxMessage.cs",
+              "ToolTip": "E:\\YouNaSchool-ElearninngPlatform\\SharedKernel\\Application\\OUTBOX PATTERN\\OutboxMessage.cs",
+              "RelativeToolTip": "Application\\OUTBOX PATTERN\\OutboxMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T18:01:17.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEventBus.cs",
+              "DocumentMoniker": "E:\\YouNaSchool-ElearninngPlatform\\SharedKernel\\Application\\MESSAGING\\IEventBus.cs",
+              "RelativeDocumentMoniker": "Application\\MESSAGING\\IEventBus.cs",
+              "ToolTip": "E:\\YouNaSchool-ElearninngPlatform\\SharedKernel\\Application\\MESSAGING\\IEventBus.cs",
+              "RelativeToolTip": "Application\\MESSAGING\\IEventBus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T18:00:36.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IntegrationEvent.cs",
+              "DocumentMoniker": "E:\\YouNaSchool-ElearninngPlatform\\SharedKernel\\Application\\MESSAGING\\IntegrationEvent.cs",
+              "RelativeDocumentMoniker": "Application\\MESSAGING\\IntegrationEvent.cs",
+              "ToolTip": "E:\\YouNaSchool-ElearninngPlatform\\SharedKernel\\Application\\MESSAGING\\IntegrationEvent.cs",
+              "RelativeToolTip": "Application\\MESSAGING\\IntegrationEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T18:00:17.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IIntegrationEvent.cs",
+              "DocumentMoniker": "E:\\YouNaSchool-ElearninngPlatform\\SharedKernel\\Application\\MESSAGING\\IIntegrationEvent.cs",
+              "RelativeDocumentMoniker": "Application\\MESSAGING\\IIntegrationEvent.cs",
+              "ToolTip": "E:\\YouNaSchool-ElearninngPlatform\\SharedKernel\\Application\\MESSAGING\\IIntegrationEvent.cs",
+              "RelativeToolTip": "Application\\MESSAGING\\IIntegrationEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T17:59:57.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICurrentUser.cs",
+              "DocumentMoniker": "E:\\YouNaSchool-ElearninngPlatform\\SharedKernel\\Application\\ClockandUserContext\\ICurrentUser.cs",
+              "RelativeDocumentMoniker": "Application\\ClockandUserContext\\ICurrentUser.cs",
+              "ToolTip": "E:\\YouNaSchool-ElearninngPlatform\\SharedKernel\\Application\\ClockandUserContext\\ICurrentUser.cs",
+              "RelativeToolTip": "Application\\ClockandUserContext\\ICurrentUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T17:58:55.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ISystemClock.cs",
+              "DocumentMoniker": "E:\\YouNaSchool-ElearninngPlatform\\SharedKernel\\Application\\ClockandUserContext\\ISystemClock.cs",
+              "RelativeDocumentMoniker": "Application\\ClockandUserContext\\ISystemClock.cs",
+              "ToolTip": "E:\\YouNaSchool-ElearninngPlatform\\SharedKernel\\Application\\ClockandUserContext\\ISystemClock.cs",
+              "RelativeToolTip": "Application\\ClockandUserContext\\ISystemClock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T17:58:35.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Result.cs",
+              "DocumentMoniker": "E:\\YouNaSchool-ElearninngPlatform\\SharedKernel\\Application\\RESULT PATTERN\\Result.cs",
+              "RelativeDocumentMoniker": "Application\\RESULT PATTERN\\Result.cs",
+              "ToolTip": "E:\\YouNaSchool-ElearninngPlatform\\SharedKernel\\Application\\RESULT PATTERN\\Result.cs",
+              "RelativeToolTip": "Application\\RESULT PATTERN\\Result.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T17:56:30.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FileUrl.cs",
+              "DocumentMoniker": "E:\\YouNaSchool-ElearninngPlatform\\SharedKernel\\Domain\\VALUE OBJECTS\\FileUrl.cs",
+              "RelativeDocumentMoniker": "Domain\\VALUE OBJECTS\\FileUrl.cs",
+              "ToolTip": "E:\\YouNaSchool-ElearninngPlatform\\SharedKernel\\Domain\\VALUE OBJECTS\\FileUrl.cs",
+              "RelativeToolTip": "Domain\\VALUE OBJECTS\\FileUrl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T17:55:19.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Email.cs",
+              "DocumentMoniker": "E:\\YouNaSchool-ElearninngPlatform\\SharedKernel\\Domain\\VALUE OBJECTS\\Email.cs",
+              "RelativeDocumentMoniker": "Domain\\VALUE OBJECTS\\Email.cs",
+              "ToolTip": "E:\\YouNaSchool-ElearninngPlatform\\SharedKernel\\Domain\\VALUE OBJECTS\\Email.cs",
+              "RelativeToolTip": "Domain\\VALUE OBJECTS\\Email.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T17:54:53.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Money.cs",
+              "DocumentMoniker": "E:\\YouNaSchool-ElearninngPlatform\\SharedKernel\\Domain\\VALUE OBJECTS\\Money.cs",
+              "RelativeDocumentMoniker": "Domain\\VALUE OBJECTS\\Money.cs",
+              "ToolTip": "E:\\YouNaSchool-ElearninngPlatform\\SharedKernel\\Domain\\VALUE OBJECTS\\Money.cs",
+              "RelativeToolTip": "Domain\\VALUE OBJECTS\\Money.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T17:54:18.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BusinessRuleViolationException.cs",
+              "DocumentMoniker": "E:\\YouNaSchool-ElearninngPlatform\\SharedKernel\\Domain\\EXCEPTIONS\\BusinessRuleViolationException.cs",
+              "RelativeDocumentMoniker": "Domain\\EXCEPTIONS\\BusinessRuleViolationException.cs",
+              "ToolTip": "E:\\YouNaSchool-ElearninngPlatform\\SharedKernel\\Domain\\EXCEPTIONS\\BusinessRuleViolationException.cs",
+              "RelativeToolTip": "Domain\\EXCEPTIONS\\BusinessRuleViolationException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T17:53:35.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DomainException.cs",
+              "DocumentMoniker": "E:\\YouNaSchool-ElearninngPlatform\\SharedKernel\\Domain\\EXCEPTIONS\\DomainException.cs",
+              "RelativeDocumentMoniker": "Domain\\EXCEPTIONS\\DomainException.cs",
+              "ToolTip": "E:\\YouNaSchool-ElearninngPlatform\\SharedKernel\\Domain\\EXCEPTIONS\\DomainException.cs",
+              "RelativeToolTip": "Domain\\EXCEPTIONS\\DomainException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T17:53:03.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EventDomain.cs",
+              "DocumentMoniker": "E:\\YouNaSchool-ElearninngPlatform\\SharedKernel\\Domain\\Events\\EventDomain.cs",
+              "RelativeDocumentMoniker": "Domain\\Events\\EventDomain.cs",
+              "ToolTip": "E:\\YouNaSchool-ElearninngPlatform\\SharedKernel\\Domain\\Events\\EventDomain.cs",
+              "RelativeToolTip": "Domain\\Events\\EventDomain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T17:52:15.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IDomainEvent.cs",
+              "DocumentMoniker": "E:\\YouNaSchool-ElearninngPlatform\\SharedKernel\\Domain\\Events\\IDomainEvent.cs",
+              "RelativeDocumentMoniker": "Domain\\Events\\IDomainEvent.cs",
+              "ToolTip": "E:\\YouNaSchool-ElearninngPlatform\\SharedKernel\\Domain\\Events\\IDomainEvent.cs",
+              "RelativeToolTip": "Domain\\Events\\IDomainEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T17:51:22.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ValueObject.cs",
+              "DocumentMoniker": "E:\\YouNaSchool-ElearninngPlatform\\SharedKernel\\Domain\\CORE ABSTRACTIONS\\ValueObject.cs",
+              "RelativeDocumentMoniker": "Domain\\CORE ABSTRACTIONS\\ValueObject.cs",
+              "ToolTip": "E:\\YouNaSchool-ElearninngPlatform\\SharedKernel\\Domain\\CORE ABSTRACTIONS\\ValueObject.cs",
+              "RelativeToolTip": "Domain\\CORE ABSTRACTIONS\\ValueObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T17:49:34.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AggregateRoot.cs",
+              "DocumentMoniker": "E:\\YouNaSchool-ElearninngPlatform\\SharedKernel\\Domain\\CORE ABSTRACTIONS\\AggregateRoot.cs",
+              "RelativeDocumentMoniker": "Domain\\CORE ABSTRACTIONS\\AggregateRoot.cs",
+              "ToolTip": "E:\\YouNaSchool-ElearninngPlatform\\SharedKernel\\Domain\\CORE ABSTRACTIONS\\AggregateRoot.cs",
+              "RelativeToolTip": "Domain\\CORE ABSTRACTIONS\\AggregateRoot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T17:48:56.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "E:\\YouNaSchool-ElearninngPlatform\\SharedKernel\\Domain\\CORE ABSTRACTIONS\\Entity.cs",
+              "RelativeDocumentMoniker": "Domain\\CORE ABSTRACTIONS\\Entity.cs",
+              "ToolTip": "E:\\YouNaSchool-ElearninngPlatform\\SharedKernel\\Domain\\CORE ABSTRACTIONS\\Entity.cs",
+              "RelativeToolTip": "Domain\\CORE ABSTRACTIONS\\Entity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T17:48:30.268Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

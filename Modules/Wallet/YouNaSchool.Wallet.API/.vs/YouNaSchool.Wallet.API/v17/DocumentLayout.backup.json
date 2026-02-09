@@ -1,0 +1,331 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Wallet\\YouNaSchool.Wallet.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8F673B2-45C9-49B4-9BF1-205324C5FE51}|..\\YouNaSchool.Wallet.Infrastructure\\YouNaSchool.Wallet.Infrastructure.csproj|e:\\younaschool-elearninngplatform\\modules\\wallet\\younaschool.wallet.infrastructure\\messaging\\outbox\\outboxmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8F673B2-45C9-49B4-9BF1-205324C5FE51}|..\\YouNaSchool.Wallet.Infrastructure\\YouNaSchool.Wallet.Infrastructure.csproj|e:\\younaschool-elearninngplatform\\modules\\wallet\\younaschool.wallet.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8F673B2-45C9-49B4-9BF1-205324C5FE51}|..\\YouNaSchool.Wallet.Infrastructure\\YouNaSchool.Wallet.Infrastructure.csproj|e:\\younaschool-elearninngplatform\\modules\\wallet\\younaschool.wallet.infrastructure\\integrationevents\\userregisterationintegrationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8F673B2-45C9-49B4-9BF1-205324C5FE51}|..\\YouNaSchool.Wallet.Infrastructure\\YouNaSchool.Wallet.Infrastructure.csproj|e:\\younaschool-elearninngplatform\\modules\\wallet\\younaschool.wallet.infrastructure\\messaging\\outbox\\outboxprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8F673B2-45C9-49B4-9BF1-205324C5FE51}|..\\YouNaSchool.Wallet.Infrastructure\\YouNaSchool.Wallet.Infrastructure.csproj|e:\\younaschool-elearninngplatform\\modules\\wallet\\younaschool.wallet.infrastructure\\messaging\\outbox\\outboxmessagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8F673B2-45C9-49B4-9BF1-205324C5FE51}|..\\YouNaSchool.Wallet.Infrastructure\\YouNaSchool.Wallet.Infrastructure.csproj|e:\\younaschool-elearninngplatform\\modules\\wallet\\younaschool.wallet.infrastructure\\messaging\\rabbitmq\\rabbitmqconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8F673B2-45C9-49B4-9BF1-205324C5FE51}|..\\YouNaSchool.Wallet.Infrastructure\\YouNaSchool.Wallet.Infrastructure.csproj|e:\\younaschool-elearninngplatform\\modules\\wallet\\younaschool.wallet.infrastructure\\messaging\\rabbitmq\\rabbitmqpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8F673B2-45C9-49B4-9BF1-205324C5FE51}|..\\YouNaSchool.Wallet.Infrastructure\\YouNaSchool.Wallet.Infrastructure.csproj|e:\\younaschool-elearninngplatform\\modules\\wallet\\younaschool.wallet.infrastructure\\persistenc\\repositories\\walletrechargerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB559FB9-86B0-4609-9666-5E99B5276F88}|..\\YouNaSchool.Wallet.Domain\\YouNaSchool.Wallet.Domain.csproj|e:\\younaschool-elearninngplatform\\modules\\wallet\\younaschool.wallet.domain\\entities\\walletrecharge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB559FB9-86B0-4609-9666-5E99B5276F88}|..\\YouNaSchool.Wallet.Domain\\YouNaSchool.Wallet.Domain.csproj|e:\\younaschool-elearninngplatform\\modules\\wallet\\younaschool.wallet.domain\\entities\\walletledgerentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8F673B2-45C9-49B4-9BF1-205324C5FE51}|..\\YouNaSchool.Wallet.Infrastructure\\YouNaSchool.Wallet.Infrastructure.csproj|e:\\younaschool-elearninngplatform\\modules\\wallet\\younaschool.wallet.infrastructure\\persistenc\\repositories\\walletledgerentryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8F673B2-45C9-49B4-9BF1-205324C5FE51}|..\\YouNaSchool.Wallet.Infrastructure\\YouNaSchool.Wallet.Infrastructure.csproj|e:\\younaschool-elearninngplatform\\modules\\wallet\\younaschool.wallet.infrastructure\\persistenc\\repositories\\walletrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8F673B2-45C9-49B4-9BF1-205324C5FE51}|..\\YouNaSchool.Wallet.Infrastructure\\YouNaSchool.Wallet.Infrastructure.csproj|e:\\younaschool-elearninngplatform\\modules\\wallet\\younaschool.wallet.infrastructure\\persistenc\\configurations\\walletrechargeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8F673B2-45C9-49B4-9BF1-205324C5FE51}|..\\YouNaSchool.Wallet.Infrastructure\\YouNaSchool.Wallet.Infrastructure.csproj|e:\\younaschool-elearninngplatform\\modules\\wallet\\younaschool.wallet.infrastructure\\persistenc\\configurations\\walletledgerentryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8F673B2-45C9-49B4-9BF1-205324C5FE51}|..\\YouNaSchool.Wallet.Infrastructure\\YouNaSchool.Wallet.Infrastructure.csproj|e:\\younaschool-elearninngplatform\\modules\\wallet\\younaschool.wallet.infrastructure\\persistenc\\configurations\\outboxmessageconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8F673B2-45C9-49B4-9BF1-205324C5FE51}|..\\YouNaSchool.Wallet.Infrastructure\\YouNaSchool.Wallet.Infrastructure.csproj|e:\\younaschool-elearninngplatform\\modules\\wallet\\younaschool.wallet.infrastructure\\persistenc\\configurations\\walletconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8F673B2-45C9-49B4-9BF1-205324C5FE51}|..\\YouNaSchool.Wallet.Infrastructure\\YouNaSchool.Wallet.Infrastructure.csproj|e:\\younaschool-elearninngplatform\\modules\\wallet\\younaschool.wallet.infrastructure\\persistenc\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8F673B2-45C9-49B4-9BF1-205324C5FE51}|..\\YouNaSchool.Wallet.Infrastructure\\YouNaSchool.Wallet.Infrastructure.csproj|e:\\younaschool-elearninngplatform\\modules\\wallet\\younaschool.wallet.infrastructure\\persistenc\\walletdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB559FB9-86B0-4609-9666-5E99B5276F88}|..\\YouNaSchool.Wallet.Domain\\YouNaSchool.Wallet.Domain.csproj|e:\\younaschool-elearninngplatform\\modules\\wallet\\younaschool.wallet.domain\\entities\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Wallet\\YouNaSchool.Wallet.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "..\\YouNaSchool.Wallet.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Wallet\\YouNaSchool.Wallet.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "..\\YouNaSchool.Wallet.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T15:12:26.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRegisterationIntegrationEvent.cs",
+              "DocumentMoniker": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Wallet\\YouNaSchool.Wallet.Infrastructure\\IntegrationEvents\\UserRegisterationIntegrationEvent.cs",
+              "RelativeDocumentMoniker": "..\\YouNaSchool.Wallet.Infrastructure\\IntegrationEvents\\UserRegisterationIntegrationEvent.cs",
+              "ToolTip": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Wallet\\YouNaSchool.Wallet.Infrastructure\\IntegrationEvents\\UserRegisterationIntegrationEvent.cs",
+              "RelativeToolTip": "..\\YouNaSchool.Wallet.Infrastructure\\IntegrationEvents\\UserRegisterationIntegrationEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T15:12:44.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OutBoxProcessor.cs",
+              "DocumentMoniker": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Wallet\\YouNaSchool.Wallet.Infrastructure\\Messaging\\Outbox\\OutBoxProcessor.cs",
+              "RelativeDocumentMoniker": "..\\YouNaSchool.Wallet.Infrastructure\\Messaging\\Outbox\\OutBoxProcessor.cs",
+              "ToolTip": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Wallet\\YouNaSchool.Wallet.Infrastructure\\Messaging\\Outbox\\OutBoxProcessor.cs",
+              "RelativeToolTip": "..\\YouNaSchool.Wallet.Infrastructure\\Messaging\\Outbox\\OutBoxProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T15:10:57.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OutBoxMessageRepository.cs",
+              "DocumentMoniker": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Wallet\\YouNaSchool.Wallet.Infrastructure\\Messaging\\Outbox\\OutBoxMessageRepository.cs",
+              "RelativeDocumentMoniker": "..\\YouNaSchool.Wallet.Infrastructure\\Messaging\\Outbox\\OutBoxMessageRepository.cs",
+              "ToolTip": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Wallet\\YouNaSchool.Wallet.Infrastructure\\Messaging\\Outbox\\OutBoxMessageRepository.cs",
+              "RelativeToolTip": "..\\YouNaSchool.Wallet.Infrastructure\\Messaging\\Outbox\\OutBoxMessageRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T15:10:32.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OutBoxMessage.cs",
+              "DocumentMoniker": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Wallet\\YouNaSchool.Wallet.Infrastructure\\Messaging\\Outbox\\OutBoxMessage.cs",
+              "RelativeDocumentMoniker": "..\\YouNaSchool.Wallet.Infrastructure\\Messaging\\Outbox\\OutBoxMessage.cs",
+              "ToolTip": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Wallet\\YouNaSchool.Wallet.Infrastructure\\Messaging\\Outbox\\OutBoxMessage.cs",
+              "RelativeToolTip": "..\\YouNaSchool.Wallet.Infrastructure\\Messaging\\Outbox\\OutBoxMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T15:10:11.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RabbitMqConsumer.cs",
+              "DocumentMoniker": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Wallet\\YouNaSchool.Wallet.Infrastructure\\Messaging\\RabbitMQ\\RabbitMqConsumer.cs",
+              "RelativeDocumentMoniker": "..\\YouNaSchool.Wallet.Infrastructure\\Messaging\\RabbitMQ\\RabbitMqConsumer.cs",
+              "ToolTip": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Wallet\\YouNaSchool.Wallet.Infrastructure\\Messaging\\RabbitMQ\\RabbitMqConsumer.cs",
+              "RelativeToolTip": "..\\YouNaSchool.Wallet.Infrastructure\\Messaging\\RabbitMQ\\RabbitMqConsumer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T15:09:58.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RabbitmqPublisher.cs",
+              "DocumentMoniker": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Wallet\\YouNaSchool.Wallet.Infrastructure\\Messaging\\RabbitMQ\\RabbitmqPublisher.cs",
+              "RelativeDocumentMoniker": "..\\YouNaSchool.Wallet.Infrastructure\\Messaging\\RabbitMQ\\RabbitmqPublisher.cs",
+              "ToolTip": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Wallet\\YouNaSchool.Wallet.Infrastructure\\Messaging\\RabbitMQ\\RabbitmqPublisher.cs",
+              "RelativeToolTip": "..\\YouNaSchool.Wallet.Infrastructure\\Messaging\\RabbitMQ\\RabbitmqPublisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T15:09:45.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WalletRechargeRepository.cs",
+              "DocumentMoniker": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Wallet\\YouNaSchool.Wallet.Infrastructure\\Persistenc\\Repositories\\WalletRechargeRepository.cs",
+              "RelativeDocumentMoniker": "..\\YouNaSchool.Wallet.Infrastructure\\Persistenc\\Repositories\\WalletRechargeRepository.cs",
+              "ToolTip": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Wallet\\YouNaSchool.Wallet.Infrastructure\\Persistenc\\Repositories\\WalletRechargeRepository.cs",
+              "RelativeToolTip": "..\\YouNaSchool.Wallet.Infrastructure\\Persistenc\\Repositories\\WalletRechargeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T15:08:23.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WalletLedgerEntryRepository.cs",
+              "DocumentMoniker": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Wallet\\YouNaSchool.Wallet.Infrastructure\\Persistenc\\Repositories\\WalletLedgerEntryRepository.cs",
+              "RelativeDocumentMoniker": "..\\YouNaSchool.Wallet.Infrastructure\\Persistenc\\Repositories\\WalletLedgerEntryRepository.cs",
+              "ToolTip": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Wallet\\YouNaSchool.Wallet.Infrastructure\\Persistenc\\Repositories\\WalletLedgerEntryRepository.cs",
+              "RelativeToolTip": "..\\YouNaSchool.Wallet.Infrastructure\\Persistenc\\Repositories\\WalletLedgerEntryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T15:07:40.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WalletRepository.cs",
+              "DocumentMoniker": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Wallet\\YouNaSchool.Wallet.Infrastructure\\Persistenc\\Repositories\\WalletRepository.cs",
+              "RelativeDocumentMoniker": "..\\YouNaSchool.Wallet.Infrastructure\\Persistenc\\Repositories\\WalletRepository.cs",
+              "ToolTip": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Wallet\\YouNaSchool.Wallet.Infrastructure\\Persistenc\\Repositories\\WalletRepository.cs",
+              "RelativeToolTip": "..\\YouNaSchool.Wallet.Infrastructure\\Persistenc\\Repositories\\WalletRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T15:07:22.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WalletRechargeConfiguration.cs",
+              "DocumentMoniker": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Wallet\\YouNaSchool.Wallet.Infrastructure\\Persistenc\\Configurations\\WalletRechargeConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\YouNaSchool.Wallet.Infrastructure\\Persistenc\\Configurations\\WalletRechargeConfiguration.cs",
+              "ToolTip": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Wallet\\YouNaSchool.Wallet.Infrastructure\\Persistenc\\Configurations\\WalletRechargeConfiguration.cs",
+              "RelativeToolTip": "..\\YouNaSchool.Wallet.Infrastructure\\Persistenc\\Configurations\\WalletRechargeConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T15:06:36.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OutBoxMessageConfiguration.cs",
+              "DocumentMoniker": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Wallet\\YouNaSchool.Wallet.Infrastructure\\Persistenc\\Configurations\\OutBoxMessageConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\YouNaSchool.Wallet.Infrastructure\\Persistenc\\Configurations\\OutBoxMessageConfiguration.cs",
+              "ToolTip": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Wallet\\YouNaSchool.Wallet.Infrastructure\\Persistenc\\Configurations\\OutBoxMessageConfiguration.cs",
+              "RelativeToolTip": "..\\YouNaSchool.Wallet.Infrastructure\\Persistenc\\Configurations\\OutBoxMessageConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T15:05:31.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WalletLedgerEntryConfiguration.cs",
+              "DocumentMoniker": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Wallet\\YouNaSchool.Wallet.Infrastructure\\Persistenc\\Configurations\\WalletLedgerEntryConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\YouNaSchool.Wallet.Infrastructure\\Persistenc\\Configurations\\WalletLedgerEntryConfiguration.cs",
+              "ToolTip": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Wallet\\YouNaSchool.Wallet.Infrastructure\\Persistenc\\Configurations\\WalletLedgerEntryConfiguration.cs",
+              "RelativeToolTip": "..\\YouNaSchool.Wallet.Infrastructure\\Persistenc\\Configurations\\WalletLedgerEntryConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T15:04:35.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WalletLedgerEntry.cs",
+              "DocumentMoniker": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Wallet\\YouNaSchool.Wallet.Domain\\Entities\\WalletLedgerEntry.cs",
+              "RelativeDocumentMoniker": "..\\YouNaSchool.Wallet.Domain\\Entities\\WalletLedgerEntry.cs",
+              "ToolTip": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Wallet\\YouNaSchool.Wallet.Domain\\Entities\\WalletLedgerEntry.cs",
+              "RelativeToolTip": "..\\YouNaSchool.Wallet.Domain\\Entities\\WalletLedgerEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T17:45:22.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WalletRecharge.cs",
+              "DocumentMoniker": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Wallet\\YouNaSchool.Wallet.Domain\\Entities\\WalletRecharge.cs",
+              "RelativeDocumentMoniker": "..\\YouNaSchool.Wallet.Domain\\Entities\\WalletRecharge.cs",
+              "ToolTip": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Wallet\\YouNaSchool.Wallet.Domain\\Entities\\WalletRecharge.cs",
+              "RelativeToolTip": "..\\YouNaSchool.Wallet.Domain\\Entities\\WalletRecharge.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T17:45:31.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WalletConfiguration.cs",
+              "DocumentMoniker": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Wallet\\YouNaSchool.Wallet.Infrastructure\\Persistenc\\Configurations\\WalletConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\YouNaSchool.Wallet.Infrastructure\\Persistenc\\Configurations\\WalletConfiguration.cs",
+              "ToolTip": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Wallet\\YouNaSchool.Wallet.Infrastructure\\Persistenc\\Configurations\\WalletConfiguration.cs",
+              "RelativeToolTip": "..\\YouNaSchool.Wallet.Infrastructure\\Persistenc\\Configurations\\WalletConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T15:04:13.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Wallet\\YouNaSchool.Wallet.Infrastructure\\Persistenc\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "..\\YouNaSchool.Wallet.Infrastructure\\Persistenc\\UnitOfWork.cs",
+              "ToolTip": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Wallet\\YouNaSchool.Wallet.Infrastructure\\Persistenc\\UnitOfWork.cs",
+              "RelativeToolTip": "..\\YouNaSchool.Wallet.Infrastructure\\Persistenc\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T15:03:11.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WalletDbContext.cs",
+              "DocumentMoniker": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Wallet\\YouNaSchool.Wallet.Infrastructure\\Persistenc\\WalletDbContext.cs",
+              "RelativeDocumentMoniker": "..\\YouNaSchool.Wallet.Infrastructure\\Persistenc\\WalletDbContext.cs",
+              "ToolTip": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Wallet\\YouNaSchool.Wallet.Infrastructure\\Persistenc\\WalletDbContext.cs",
+              "RelativeToolTip": "..\\YouNaSchool.Wallet.Infrastructure\\Persistenc\\WalletDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T15:01:41.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Wallet.cs",
+              "DocumentMoniker": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Wallet\\YouNaSchool.Wallet.Domain\\Entities\\Wallet.cs",
+              "RelativeDocumentMoniker": "..\\YouNaSchool.Wallet.Domain\\Entities\\Wallet.cs",
+              "ToolTip": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Wallet\\YouNaSchool.Wallet.Domain\\Entities\\Wallet.cs",
+              "RelativeToolTip": "..\\YouNaSchool.Wallet.Domain\\Entities\\Wallet.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T17:43:18.72Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

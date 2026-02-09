@@ -1,0 +1,15 @@
+E:\YouNaSchool-ElearninngPlatform\Modules\Wallet\YouNaSchool.Wallet.Domain\obj\Debug\net9.0\YouNaSchool.Wallet.Domain.csproj.AssemblyReference.cache
+E:\YouNaSchool-ElearninngPlatform\Modules\Wallet\YouNaSchool.Wallet.Domain\obj\Debug\net9.0\YouNaSchool.Wallet.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\YouNaSchool-ElearninngPlatform\Modules\Wallet\YouNaSchool.Wallet.Domain\obj\Debug\net9.0\YouNaSchool.Wallet.Domain.AssemblyInfoInputs.cache
+E:\YouNaSchool-ElearninngPlatform\Modules\Wallet\YouNaSchool.Wallet.Domain\obj\Debug\net9.0\YouNaSchool.Wallet.Domain.AssemblyInfo.cs
+E:\YouNaSchool-ElearninngPlatform\Modules\Wallet\YouNaSchool.Wallet.Domain\obj\Debug\net9.0\YouNaSchool.Wallet.Domain.csproj.CoreCompileInputs.cache
+E:\YouNaSchool-ElearninngPlatform\Modules\Wallet\YouNaSchool.Wallet.Domain\bin\Debug\net9.0\YouNaSchool.Wallet.Domain.deps.json
+E:\YouNaSchool-ElearninngPlatform\Modules\Wallet\YouNaSchool.Wallet.Domain\bin\Debug\net9.0\YouNaSchool.Wallet.Domain.dll
+E:\YouNaSchool-ElearninngPlatform\Modules\Wallet\YouNaSchool.Wallet.Domain\bin\Debug\net9.0\YouNaSchool.Wallet.Domain.pdb
+E:\YouNaSchool-ElearninngPlatform\Modules\Wallet\YouNaSchool.Wallet.Domain\bin\Debug\net9.0\Shared.dll
+E:\YouNaSchool-ElearninngPlatform\Modules\Wallet\YouNaSchool.Wallet.Domain\bin\Debug\net9.0\Shared.pdb
+E:\YouNaSchool-ElearninngPlatform\Modules\Wallet\YouNaSchool.Wallet.Domain\obj\Debug\net9.0\YouNaSch.3F9F61DA.Up2Date
+E:\YouNaSchool-ElearninngPlatform\Modules\Wallet\YouNaSchool.Wallet.Domain\obj\Debug\net9.0\YouNaSchool.Wallet.Domain.dll
+E:\YouNaSchool-ElearninngPlatform\Modules\Wallet\YouNaSchool.Wallet.Domain\obj\Debug\net9.0\refint\YouNaSchool.Wallet.Domain.dll
+E:\YouNaSchool-ElearninngPlatform\Modules\Wallet\YouNaSchool.Wallet.Domain\obj\Debug\net9.0\YouNaSchool.Wallet.Domain.pdb
+E:\YouNaSchool-ElearninngPlatform\Modules\Wallet\YouNaSchool.Wallet.Domain\obj\Debug\net9.0\ref\YouNaSchool.Wallet.Domain.dll

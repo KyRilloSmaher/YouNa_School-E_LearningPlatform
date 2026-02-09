@@ -1,0 +1,52 @@
+﻿Restoring packages for E:\YouNaSchool-ElearninngPlatform\Shared\Shared\Shared.csproj...
+  CACHE https://api.nuget.org/v3/vulnerabilities/index.json
+  CACHE https://api.nuget.org/v3-vulnerabilities/2026.02.05.05.49.44/vulnerability.base.json
+  CACHE https://api.nuget.org/v3-vulnerabilities/2026.02.05.05.49.44/2026.02.06.05.49.48/vulnerability.update.json
+Installing NuGet package Microsoft.EntityFrameworkCore 9.0.12.
+Generating MSBuild file E:\YouNaSchool-ElearninngPlatform\Shared\Shared\obj\Shared.csproj.nuget.g.props.
+Generating MSBuild file E:\YouNaSchool-ElearninngPlatform\Shared\Shared\obj\Shared.csproj.nuget.g.targets.
+Writing assets file to disk. Path: E:\YouNaSchool-ElearninngPlatform\Shared\Shared\obj\project.assets.json
+Successfully installed 'Microsoft.EntityFrameworkCore 9.0.12' to Shared
+Successfully installed 'Microsoft.EntityFrameworkCore.Abstractions 9.0.12' to Shared
+Successfully installed 'Microsoft.EntityFrameworkCore.Analyzers 9.0.12' to Shared
+Successfully installed 'Microsoft.Extensions.Caching.Abstractions 9.0.12' to Shared
+Successfully installed 'Microsoft.Extensions.Caching.Memory 9.0.12' to Shared
+Successfully installed 'Microsoft.Extensions.DependencyInjection 9.0.12' to Shared
+Successfully installed 'Microsoft.Extensions.DependencyInjection.Abstractions 9.0.12' to Shared
+Successfully installed 'Microsoft.Extensions.Logging 9.0.12' to Shared
+Successfully installed 'Microsoft.Extensions.Logging.Abstractions 9.0.12' to Shared
+Successfully installed 'Microsoft.Extensions.Options 9.0.12' to Shared
+Successfully installed 'Microsoft.Extensions.Primitives 9.0.12' to Shared
+Assets file has not changed. Skipping assets file writing. Path: E:\YouNaSchool-ElearninngPlatform\Modules\Wallet\YouNaSchool.Wallet.Domain\obj\project.assets.json
+Restored E:\YouNaSchool-ElearninngPlatform\Modules\Wallet\YouNaSchool.Wallet.Domain\YouNaSchool.Wallet.Domain.csproj (in 68 ms).
+Assets file has not changed. Skipping assets file writing. Path: E:\YouNaSchool-ElearninngPlatform\Modules\Wallet\YouNaSchool.Wallet.Application\obj\project.assets.json
+Restored E:\YouNaSchool-ElearninngPlatform\Modules\Wallet\YouNaSchool.Wallet.Application\YouNaSchool.Wallet.Application.csproj (in 73 ms).
+Restoring packages for E:\YouNaSchool-ElearninngPlatform\Modules\Wallet\YouNaSchool.Wallet.API\YouNaSchool.Wallet.API.csproj...
+Assets file has not changed. Skipping assets file writing. Path: E:\YouNaSchool-ElearninngPlatform\Modules\Wallet\YouNaSchool.Wallet.Infrastructure\obj\project.assets.json
+Restored E:\YouNaSchool-ElearninngPlatform\Modules\Wallet\YouNaSchool.Wallet.Infrastructure\YouNaSchool.Wallet.Infrastructure.csproj (in 88 ms).
+  CACHE https://api.nuget.org/v3/vulnerabilities/index.json
+  CACHE https://api.nuget.org/v3-vulnerabilities/2026.02.05.05.49.44/vulnerability.base.json
+  CACHE https://api.nuget.org/v3-vulnerabilities/2026.02.05.05.49.44/2026.02.06.05.49.48/vulnerability.update.json
+Assets file has not changed. Skipping assets file writing. Path: E:\YouNaSchool-ElearninngPlatform\Modules\Wallet\YouNaSchool.Wallet.API\obj\project.assets.json
+
+NuGet Config files used:
+    C:\Users\NanoChip\AppData\Roaming\NuGet\NuGet.Config
+    C:\Program Files (x86)\NuGet\Config\Microsoft.VisualStudio.FallbackLocation.config
+    C:\Program Files (x86)\NuGet\Config\Microsoft.VisualStudio.Offline.config
+
+Feeds used:
+    https://api.nuget.org/v3/index.json
+    C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\
+Executing nuget actions took 285 ms
+Time Elapsed: 00:00:00.8494028
+========== Finished ==========
+
+Restored E:\YouNaSchool-ElearninngPlatform\Modules\Wallet\YouNaSchool.Wallet.Domain\YouNaSchool.Wallet.Domain.csproj (in 50 ms).
+Failed to restore E:\YouNaSchool-ElearninngPlatform\Modules\Wallet\YouNaSchool.Wallet.API\YouNaSchool.Wallet.API.csproj (in 50 ms).
+Restored E:\YouNaSchool-ElearninngPlatform\Modules\Wallet\YouNaSchool.Wallet.Application\YouNaSchool.Wallet.Application.csproj (in 71 ms).
+Restored E:\YouNaSchool-ElearninngPlatform\Modules\Wallet\YouNaSchool.Wallet.Infrastructure\YouNaSchool.Wallet.Infrastructure.csproj (in 259 ms).
+NuGet package restore failed. Please see Error List window for detailed warnings and errors.
+Time Elapsed: 00:00:00.3287035
+========== Finished ==========
+
+

@@ -1,0 +1,11 @@
+E:\YouNaSchool-ElearninngPlatform\SharedKernel\obj\Debug\net9.0\SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+E:\YouNaSchool-ElearninngPlatform\SharedKernel\obj\Debug\net9.0\SharedKernel.AssemblyInfoInputs.cache
+E:\YouNaSchool-ElearninngPlatform\SharedKernel\obj\Debug\net9.0\SharedKernel.AssemblyInfo.cs
+E:\YouNaSchool-ElearninngPlatform\SharedKernel\obj\Debug\net9.0\SharedKernel.csproj.CoreCompileInputs.cache
+E:\YouNaSchool-ElearninngPlatform\SharedKernel\bin\Debug\net9.0\SharedKernel.deps.json
+E:\YouNaSchool-ElearninngPlatform\SharedKernel\bin\Debug\net9.0\SharedKernel.dll
+E:\YouNaSchool-ElearninngPlatform\SharedKernel\bin\Debug\net9.0\SharedKernel.pdb
+E:\YouNaSchool-ElearninngPlatform\SharedKernel\obj\Debug\net9.0\SharedKernel.dll
+E:\YouNaSchool-ElearninngPlatform\SharedKernel\obj\Debug\net9.0\refint\SharedKernel.dll
+E:\YouNaSchool-ElearninngPlatform\SharedKernel\obj\Debug\net9.0\SharedKernel.pdb
+E:\YouNaSchool-ElearninngPlatform\SharedKernel\obj\Debug\net9.0\ref\SharedKernel.dll
