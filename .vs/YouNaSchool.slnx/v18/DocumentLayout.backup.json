@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\YouNaSchool-ElearninngPlatform\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DAE604E-34EC-3DD9-CDA0-5FF830D8C465}|Host\\YouNaSchool.API\\YouNaSchool.API\\YouNaSchool.API.csproj|e:\\younaschool-elearninngplatform\\host\\younaschool.api\\younaschool.api\\logs\\auth\\log-20260322.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9DAE604E-34EC-3DD9-CDA0-5FF830D8C465}|Host\\YouNaSchool.API\\YouNaSchool.API\\YouNaSchool.API.csproj|solutionrelative:host\\younaschool.api\\younaschool.api\\logs\\auth\\log-20260322.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DAE604E-34EC-3DD9-CDA0-5FF830D8C465}|Host\\YouNaSchool.API\\YouNaSchool.API\\YouNaSchool.API.csproj|e:\\younaschool-elearninngplatform\\host\\younaschool.api\\younaschool.api\\logs\\wallet\\log-20260322.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9DAE604E-34EC-3DD9-CDA0-5FF830D8C465}|Host\\YouNaSchool.API\\YouNaSchool.API\\YouNaSchool.API.csproj|solutionrelative:host\\younaschool.api\\younaschool.api\\logs\\wallet\\log-20260322.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DAE604E-34EC-3DD9-CDA0-5FF830D8C465}|Host\\YouNaSchool.API\\YouNaSchool.API\\YouNaSchool.API.csproj|e:\\younaschool-elearninngplatform\\host\\younaschool.api\\younaschool.api\\logs\\general\\log-20260322.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9DAE604E-34EC-3DD9-CDA0-5FF830D8C465}|Host\\YouNaSchool.API\\YouNaSchool.API\\YouNaSchool.API.csproj|solutionrelative:host\\younaschool.api\\younaschool.api\\logs\\general\\log-20260322.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3BC3A7-EE74-42DB-87C0-2583DDEDA0A5}|Modules\\Authuntication\\YounaSchool.Authuntication.Application\\YounaSchool.Authuntication.Application.csproj|e:\\younaschool-elearninngplatform\\modules\\authuntication\\younaschool.authuntication.application\\integrationevents\\sendconfirmationemailintegrationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3BC3A7-EE74-42DB-87C0-2583DDEDA0A5}|Modules\\Authuntication\\YounaSchool.Authuntication.Application\\YounaSchool.Authuntication.Application.csproj|solutionrelative:modules\\authuntication\\younaschool.authuntication.application\\integrationevents\\sendconfirmationemailintegrationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9700D315-2A06-4E3E-FAE9-2481452FCC0C}|Modules\\Wallet\\YouNaSchool.Wallet.Application\\YouNaSchool.Wallet.Application.csproj|e:\\younaschool-elearninngplatform\\modules\\wallet\\younaschool.wallet.application\\integrationevents\\paymentcompletedintegrationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9700D315-2A06-4E3E-FAE9-2481452FCC0C}|Modules\\Wallet\\YouNaSchool.Wallet.Application\\YouNaSchool.Wallet.Application.csproj|solutionrelative:modules\\wallet\\younaschool.wallet.application\\integrationevents\\paymentcompletedintegrationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9FCD43D-59B4-A2F8-565B-02B474EAFDE7}|Modules\\Wallet\\YouNaSchool.Wallet.Infrastructure\\YouNaSchool.Wallet.Infrastructure.csproj|e:\\younaschool-elearninngplatform\\modules\\wallet\\younaschool.wallet.infrastructure\\integrationevents\\handlers\\studentregistrationintegrationeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9FCD43D-59B4-A2F8-565B-02B474EAFDE7}|Modules\\Wallet\\YouNaSchool.Wallet.Infrastructure\\YouNaSchool.Wallet.Infrastructure.csproj|solutionrelative:modules\\wallet\\younaschool.wallet.infrastructure\\integrationevents\\handlers\\studentregistrationintegrationeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9FCD43D-59B4-A2F8-565B-02B474EAFDE7}|Modules\\Wallet\\YouNaSchool.Wallet.Infrastructure\\YouNaSchool.Wallet.Infrastructure.csproj|e:\\younaschool-elearninngplatform\\modules\\wallet\\younaschool.wallet.infrastructure\\integrationevents\\handlers\\paymentcompletedintegrationeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9FCD43D-59B4-A2F8-565B-02B474EAFDE7}|Modules\\Wallet\\YouNaSchool.Wallet.Infrastructure\\YouNaSchool.Wallet.Infrastructure.csproj|solutionrelative:modules\\wallet\\younaschool.wallet.infrastructure\\integrationevents\\handlers\\paymentcompletedintegrationeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DAE604E-34EC-3DD9-CDA0-5FF830D8C465}|Host\\YouNaSchool.API\\YouNaSchool.API\\YouNaSchool.API.csproj|e:\\younaschool-elearninngplatform\\host\\younaschool.api\\younaschool.api\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DAE604E-34EC-3DD9-CDA0-5FF830D8C465}|Host\\YouNaSchool.API\\YouNaSchool.API\\YouNaSchool.API.csproj|solutionrelative:host\\younaschool.api\\younaschool.api\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DAE604E-34EC-3DD9-CDA0-5FF830D8C465}|Host\\YouNaSchool.API\\YouNaSchool.API\\YouNaSchool.API.csproj|e:\\younaschool-elearninngplatform\\host\\younaschool.api\\younaschool.api\\controllers\\walletscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DAE604E-34EC-3DD9-CDA0-5FF830D8C465}|Host\\YouNaSchool.API\\YouNaSchool.API\\YouNaSchool.API.csproj|solutionrelative:host\\younaschool.api\\younaschool.api\\controllers\\walletscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DAE604E-34EC-3DD9-CDA0-5FF830D8C465}|Host\\YouNaSchool.API\\YouNaSchool.API\\YouNaSchool.API.csproj|e:\\younaschool-elearninngplatform\\host\\younaschool.api\\younaschool.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DAE604E-34EC-3DD9-CDA0-5FF830D8C465}|Host\\YouNaSchool.API\\YouNaSchool.API\\YouNaSchool.API.csproj|solutionrelative:host\\younaschool.api\\younaschool.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DAE604E-34EC-3DD9-CDA0-5FF830D8C465}|Host\\YouNaSchool.API\\YouNaSchool.API\\YouNaSchool.API.csproj|e:\\younaschool-elearninngplatform\\host\\younaschool.api\\younaschool.api\\controllers\\paymentwebhooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DAE604E-34EC-3DD9-CDA0-5FF830D8C465}|Host\\YouNaSchool.API\\YouNaSchool.API\\YouNaSchool.API.csproj|solutionrelative:host\\younaschool.api\\younaschool.api\\controllers\\paymentwebhooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DAE604E-34EC-3DD9-CDA0-5FF830D8C465}|Host\\YouNaSchool.API\\YouNaSchool.API\\YouNaSchool.API.csproj|e:\\younaschool-elearninngplatform\\host\\younaschool.api\\younaschool.api\\extensions\\moduleattributeextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DAE604E-34EC-3DD9-CDA0-5FF830D8C465}|Host\\YouNaSchool.API\\YouNaSchool.API\\YouNaSchool.API.csproj|solutionrelative:host\\younaschool.api\\younaschool.api\\extensions\\moduleattributeextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "log-20260322.txt",
+              "DocumentMoniker": "E:\\YouNaSchool-ElearninngPlatform\\Host\\YouNaSchool.API\\YouNaSchool.API\\Logs\\Wallet\\log-20260322.txt",
+              "RelativeDocumentMoniker": "Host\\YouNaSchool.API\\YouNaSchool.API\\Logs\\Wallet\\log-20260322.txt",
+              "ToolTip": "E:\\YouNaSchool-ElearninngPlatform\\Host\\YouNaSchool.API\\YouNaSchool.API\\Logs\\Wallet\\log-20260322.txt",
+              "RelativeToolTip": "Host\\YouNaSchool.API\\YouNaSchool.API\\Logs\\Wallet\\log-20260322.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-03-22T13:58:02.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "log-20260322.txt",
+              "DocumentMoniker": "E:\\YouNaSchool-ElearninngPlatform\\Host\\YouNaSchool.API\\YouNaSchool.API\\Logs\\General\\log-20260322.txt",
+              "RelativeDocumentMoniker": "Host\\YouNaSchool.API\\YouNaSchool.API\\Logs\\General\\log-20260322.txt",
+              "ToolTip": "E:\\YouNaSchool-ElearninngPlatform\\Host\\YouNaSchool.API\\YouNaSchool.API\\Logs\\General\\log-20260322.txt",
+              "RelativeToolTip": "Host\\YouNaSchool.API\\YouNaSchool.API\\Logs\\General\\log-20260322.txt",
+              "ViewState": "AgIAAE0CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-03-22T13:57:41.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "log-20260322.txt",
+              "DocumentMoniker": "E:\\YouNaSchool-ElearninngPlatform\\Host\\YouNaSchool.API\\YouNaSchool.API\\Logs\\Auth\\log-20260322.txt",
+              "RelativeDocumentMoniker": "Host\\YouNaSchool.API\\YouNaSchool.API\\Logs\\Auth\\log-20260322.txt",
+              "ToolTip": "E:\\YouNaSchool-ElearninngPlatform\\Host\\YouNaSchool.API\\YouNaSchool.API\\Logs\\Auth\\log-20260322.txt",
+              "RelativeToolTip": "Host\\YouNaSchool.API\\YouNaSchool.API\\Logs\\Auth\\log-20260322.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-03-22T13:57:07.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PaymentCompletedIntegrationEvent.cs",
+              "DocumentMoniker": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Wallet\\YouNaSchool.Wallet.Application\\IntegrationEvents\\PaymentCompletedIntegrationEvent.cs",
+              "RelativeDocumentMoniker": "Modules\\Wallet\\YouNaSchool.Wallet.Application\\IntegrationEvents\\PaymentCompletedIntegrationEvent.cs",
+              "ToolTip": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Wallet\\YouNaSchool.Wallet.Application\\IntegrationEvents\\PaymentCompletedIntegrationEvent.cs",
+              "RelativeToolTip": "Modules\\Wallet\\YouNaSchool.Wallet.Application\\IntegrationEvents\\PaymentCompletedIntegrationEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T13:53:17.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentRegistrationIntegrationEventHandler.cs",
+              "DocumentMoniker": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Wallet\\YouNaSchool.Wallet.Infrastructure\\IntegrationEvents\\Handlers\\StudentRegistrationIntegrationEventHandler.cs",
+              "RelativeDocumentMoniker": "Modules\\Wallet\\YouNaSchool.Wallet.Infrastructure\\IntegrationEvents\\Handlers\\StudentRegistrationIntegrationEventHandler.cs",
+              "ToolTip": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Wallet\\YouNaSchool.Wallet.Infrastructure\\IntegrationEvents\\Handlers\\StudentRegistrationIntegrationEventHandler.cs",
+              "RelativeToolTip": "Modules\\Wallet\\YouNaSchool.Wallet.Infrastructure\\IntegrationEvents\\Handlers\\StudentRegistrationIntegrationEventHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T13:53:09.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PaymentCompletedIntegrationEventHandler.cs",
+              "DocumentMoniker": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Wallet\\YouNaSchool.Wallet.Infrastructure\\IntegrationEvents\\Handlers\\PaymentCompletedIntegrationEventHandler.cs",
+              "RelativeDocumentMoniker": "Modules\\Wallet\\YouNaSchool.Wallet.Infrastructure\\IntegrationEvents\\Handlers\\PaymentCompletedIntegrationEventHandler.cs",
+              "ToolTip": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Wallet\\YouNaSchool.Wallet.Infrastructure\\IntegrationEvents\\Handlers\\PaymentCompletedIntegrationEventHandler.cs",
+              "RelativeToolTip": "Modules\\Wallet\\YouNaSchool.Wallet.Infrastructure\\IntegrationEvents\\Handlers\\PaymentCompletedIntegrationEventHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T13:53:08.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SendConfirmationEmailIntegrationEvent.cs",
+              "DocumentMoniker": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Authuntication\\YounaSchool.Authuntication.Application\\IntegrationEvents\\SendConfirmationEmailIntegrationEvent.cs",
+              "RelativeDocumentMoniker": "Modules\\Authuntication\\YounaSchool.Authuntication.Application\\IntegrationEvents\\SendConfirmationEmailIntegrationEvent.cs",
+              "ToolTip": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Authuntication\\YounaSchool.Authuntication.Application\\IntegrationEvents\\SendConfirmationEmailIntegrationEvent.cs",
+              "RelativeToolTip": "Modules\\Authuntication\\YounaSchool.Authuntication.Application\\IntegrationEvents\\SendConfirmationEmailIntegrationEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T13:50:07.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\YouNaSchool-ElearninngPlatform\\Host\\YouNaSchool.API\\YouNaSchool.API\\Program.cs",
+              "RelativeDocumentMoniker": "Host\\YouNaSchool.API\\YouNaSchool.API\\Program.cs",
+              "ToolTip": "E:\\YouNaSchool-ElearninngPlatform\\Host\\YouNaSchool.API\\YouNaSchool.API\\Program.cs",
+              "RelativeToolTip": "Host\\YouNaSchool.API\\YouNaSchool.API\\Program.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAkwM8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T13:09:54.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WalletsController.cs",
+              "DocumentMoniker": "E:\\YouNaSchool-ElearninngPlatform\\Host\\YouNaSchool.API\\YouNaSchool.API\\Controllers\\WalletsController.cs",
+              "RelativeDocumentMoniker": "Host\\YouNaSchool.API\\YouNaSchool.API\\Controllers\\WalletsController.cs",
+              "ToolTip": "E:\\YouNaSchool-ElearninngPlatform\\Host\\YouNaSchool.API\\YouNaSchool.API\\Controllers\\WalletsController.cs",
+              "RelativeToolTip": "Host\\YouNaSchool.API\\YouNaSchool.API\\Controllers\\WalletsController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwGoAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T13:01:44.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PaymentWebHooks.cs",
+              "DocumentMoniker": "E:\\YouNaSchool-ElearninngPlatform\\Host\\YouNaSchool.API\\YouNaSchool.API\\Controllers\\PaymentWebHooks.cs",
+              "RelativeDocumentMoniker": "Host\\YouNaSchool.API\\YouNaSchool.API\\Controllers\\PaymentWebHooks.cs",
+              "ToolTip": "E:\\YouNaSchool-ElearninngPlatform\\Host\\YouNaSchool.API\\YouNaSchool.API\\Controllers\\PaymentWebHooks.cs",
+              "RelativeToolTip": "Host\\YouNaSchool.API\\YouNaSchool.API\\Controllers\\PaymentWebHooks.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAxwFQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T13:01:31.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ModuleAttributeExtension.cs",
+              "DocumentMoniker": "E:\\YouNaSchool-ElearninngPlatform\\Host\\YouNaSchool.API\\YouNaSchool.API\\Extensions\\ModuleAttributeExtension.cs",
+              "RelativeDocumentMoniker": "Host\\YouNaSchool.API\\YouNaSchool.API\\Extensions\\ModuleAttributeExtension.cs",
+              "ToolTip": "E:\\YouNaSchool-ElearninngPlatform\\Host\\YouNaSchool.API\\YouNaSchool.API\\Extensions\\ModuleAttributeExtension.cs",
+              "RelativeToolTip": "Host\\YouNaSchool.API\\YouNaSchool.API\\Extensions\\ModuleAttributeExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T13:00:45.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NotificationController.cs",
+              "DocumentMoniker": "E:\\YouNaSchool-ElearninngPlatform\\Host\\YouNaSchool.API\\YouNaSchool.API\\Controllers\\NotificationController.cs",
+              "RelativeDocumentMoniker": "Host\\YouNaSchool.API\\YouNaSchool.API\\Controllers\\NotificationController.cs",
+              "ToolTip": "E:\\YouNaSchool-ElearninngPlatform\\Host\\YouNaSchool.API\\YouNaSchool.API\\Controllers\\NotificationController.cs",
+              "RelativeToolTip": "Host\\YouNaSchool.API\\YouNaSchool.API\\Controllers\\NotificationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T12:58:58.075Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

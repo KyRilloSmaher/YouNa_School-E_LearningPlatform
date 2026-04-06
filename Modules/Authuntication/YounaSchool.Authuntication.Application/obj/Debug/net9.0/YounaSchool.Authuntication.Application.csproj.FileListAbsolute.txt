@@ -1,0 +1,17 @@
+E:\YouNaSchool-ElearninngPlatform\Modules\Authuntication\YounaSchool.Authuntication.Application\bin\Debug\net9.0\YounaSchool.Authuntication.Application.deps.json
+E:\YouNaSchool-ElearninngPlatform\Modules\Authuntication\YounaSchool.Authuntication.Application\bin\Debug\net9.0\YounaSchool.Authuntication.Application.dll
+E:\YouNaSchool-ElearninngPlatform\Modules\Authuntication\YounaSchool.Authuntication.Application\bin\Debug\net9.0\YounaSchool.Authuntication.Application.pdb
+E:\YouNaSchool-ElearninngPlatform\Modules\Authuntication\YounaSchool.Authuntication.Application\bin\Debug\net9.0\Shared.dll
+E:\YouNaSchool-ElearninngPlatform\Modules\Authuntication\YounaSchool.Authuntication.Application\bin\Debug\net9.0\YounaSchool.Authuntication.Domain.dll
+E:\YouNaSchool-ElearninngPlatform\Modules\Authuntication\YounaSchool.Authuntication.Application\bin\Debug\net9.0\Shared.pdb
+E:\YouNaSchool-ElearninngPlatform\Modules\Authuntication\YounaSchool.Authuntication.Application\bin\Debug\net9.0\YounaSchool.Authuntication.Domain.pdb
+E:\YouNaSchool-ElearninngPlatform\Modules\Authuntication\YounaSchool.Authuntication.Application\obj\Debug\net9.0\YounaSchool.Authuntication.Application.csproj.AssemblyReference.cache
+E:\YouNaSchool-ElearninngPlatform\Modules\Authuntication\YounaSchool.Authuntication.Application\obj\Debug\net9.0\YounaSchool.Authuntication.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\YouNaSchool-ElearninngPlatform\Modules\Authuntication\YounaSchool.Authuntication.Application\obj\Debug\net9.0\YounaSchool.Authuntication.Application.AssemblyInfoInputs.cache
+E:\YouNaSchool-ElearninngPlatform\Modules\Authuntication\YounaSchool.Authuntication.Application\obj\Debug\net9.0\YounaSchool.Authuntication.Application.AssemblyInfo.cs
+E:\YouNaSchool-ElearninngPlatform\Modules\Authuntication\YounaSchool.Authuntication.Application\obj\Debug\net9.0\YounaSchool.Authuntication.Application.csproj.CoreCompileInputs.cache
+E:\YouNaSchool-ElearninngPlatform\Modules\Authuntication\YounaSchool.Authuntication.Application\obj\Debug\net9.0\YounaSch.39A07318.Up2Date
+E:\YouNaSchool-ElearninngPlatform\Modules\Authuntication\YounaSchool.Authuntication.Application\obj\Debug\net9.0\YounaSchool.Authuntication.Application.dll
+E:\YouNaSchool-ElearninngPlatform\Modules\Authuntication\YounaSchool.Authuntication.Application\obj\Debug\net9.0\refint\YounaSchool.Authuntication.Application.dll
+E:\YouNaSchool-ElearninngPlatform\Modules\Authuntication\YounaSchool.Authuntication.Application\obj\Debug\net9.0\YounaSchool.Authuntication.Application.pdb
+E:\YouNaSchool-ElearninngPlatform\Modules\Authuntication\YounaSchool.Authuntication.Application\obj\Debug\net9.0\ref\YounaSchool.Authuntication.Application.dll

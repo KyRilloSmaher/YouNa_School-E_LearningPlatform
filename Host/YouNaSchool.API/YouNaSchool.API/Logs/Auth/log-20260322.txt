@@ -1,0 +1,4 @@
+[2026-03-22 15:58:40 | WRN] Module: Auth | TraceId: 85bb7bcba3873edce7f914403b2227c7 | The property 'Role._permissions' is a collection or enumeration type with a value converter but with no value comparer. Set a value comparer to ensure the collection/enumeration elements are compared correctly.
+
+[2026-03-22 15:58:40 | WRN] Module: Auth | TraceId: 85bb7bcba3873edce7f914403b2227c7 | The property 'UserCredential._passwordHistory' is a collection or enumeration type with a value converter but with no value comparer. Set a value comparer to ensure the collection/enumeration elements are compared correctly.
+

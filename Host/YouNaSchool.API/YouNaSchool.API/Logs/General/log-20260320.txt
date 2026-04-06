@@ -1,0 +1,178 @@
+[2026-03-20 12:25:42 | INF] Module:  | TraceId:  | Initializing RabbitMQ topology for module: users
+
+[2026-03-20 12:25:42 | INF] Module:  | TraceId:  | Creating RabbitMQ connection to localhost:5672
+
+[2026-03-20 12:25:46 | INF] Module:  | TraceId:  | RabbitMQ connection established successfully
+
+[2026-03-20 12:29:57 | INF] Module:  | TraceId:  | Initializing RabbitMQ topology for module: users
+
+[2026-03-20 12:29:57 | INF] Module:  | TraceId:  | Creating RabbitMQ connection to localhost:5672
+
+[2026-03-20 12:29:57 | INF] Module:  | TraceId:  | RabbitMQ connection established successfully
+
+[2026-03-20 12:29:57 | INF] Module:  | TraceId:  | Successfully initialized RabbitMQ topology for module: users
+
+[2026-03-20 12:29:57 | INF] Module:  | TraceId:  | Initializing RabbitMQ topology for module: auth
+
+[2026-03-20 12:29:57 | INF] Module:  | TraceId:  | Successfully initialized RabbitMQ topology for module: auth
+
+[2026-03-20 12:29:57 | INF] Module:  | TraceId:  | Initializing RabbitMQ topology for module: wallet
+
+[2026-03-20 12:29:57 | INF] Module:  | TraceId:  | Successfully initialized RabbitMQ topology for module: wallet
+
+[2026-03-20 12:30:00 | INF] Module:  | TraceId:  | Start installing Hangfire SQL objects...
+
+[2026-03-20 12:30:16 | INF] Module:  | TraceId:  | Hangfire SQL objects installed.
+
+[2026-03-20 12:30:16 | INF] Module:  | TraceId:  | Starting RabbitMQ consumer for module: notifications
+
+[2026-03-20 12:30:16 | ERR] Module:  | TraceId:  | Fatal error in RabbitMQ consumer for module: notifications
+RabbitMQ.Client.Exceptions.OperationInterruptedException: The AMQP operation was interrupted: AMQP close-reason, initiated by Peer, code=404, text='NOT_FOUND - no queue 'notifications.queue' in vhost '/'', classId=60, methodId=20
+   at RabbitMQ.Client.Impl.Channel.BasicConsumeAsync(String queue, Boolean autoAck, String consumerTag, Boolean noLocal, Boolean exclusive, IDictionary`2 arguments, IAsyncBasicConsumer consumer, CancellationToken cancellationToken)
+   at RabbitMQ.Client.Impl.AutorecoveringChannel.BasicConsumeAsync(String queue, Boolean autoAck, String consumerTag, Boolean noLocal, Boolean exclusive, IDictionary`2 arguments, IAsyncBasicConsumer consumer, CancellationToken cancellationToken)
+   at SharedKernel.Infrastructure.Messaging.RabbitMQ.RabbitMqConsumer.ExecuteAsync(CancellationToken stoppingToken) in E:\YouNaSchool-ElearninngPlatform\Shared\Shared\Application\MESSAGING\RabbitMQ\RabbitMqConsumer.cs:line 63
+
+[2026-03-20 12:30:17 | ERR] Module:  | TraceId:  | BackgroundService failed
+RabbitMQ.Client.Exceptions.OperationInterruptedException: The AMQP operation was interrupted: AMQP close-reason, initiated by Peer, code=404, text='NOT_FOUND - no queue 'notifications.queue' in vhost '/'', classId=60, methodId=20
+   at RabbitMQ.Client.Impl.Channel.BasicConsumeAsync(String queue, Boolean autoAck, String consumerTag, Boolean noLocal, Boolean exclusive, IDictionary`2 arguments, IAsyncBasicConsumer consumer, CancellationToken cancellationToken)
+   at RabbitMQ.Client.Impl.AutorecoveringChannel.BasicConsumeAsync(String queue, Boolean autoAck, String consumerTag, Boolean noLocal, Boolean exclusive, IDictionary`2 arguments, IAsyncBasicConsumer consumer, CancellationToken cancellationToken)
+   at SharedKernel.Infrastructure.Messaging.RabbitMQ.RabbitMqConsumer.ExecuteAsync(CancellationToken stoppingToken) in E:\YouNaSchool-ElearninngPlatform\Shared\Shared\Application\MESSAGING\RabbitMQ\RabbitMqConsumer.cs:line 63
+   at Microsoft.Extensions.Hosting.Internal.Host.TryExecuteBackgroundServiceAsync(BackgroundService backgroundService)
+
+[2026-03-20 12:30:17 | FTL] Module:  | TraceId:  | The HostOptions.BackgroundServiceExceptionBehavior is configured to StopHost. A BackgroundService has thrown an unhandled exception, and the IHost instance is stopping. To avoid this behavior, configure this to Ignore; however the BackgroundService will not be restarted.
+RabbitMQ.Client.Exceptions.OperationInterruptedException: The AMQP operation was interrupted: AMQP close-reason, initiated by Peer, code=404, text='NOT_FOUND - no queue 'notifications.queue' in vhost '/'', classId=60, methodId=20
+   at RabbitMQ.Client.Impl.Channel.BasicConsumeAsync(String queue, Boolean autoAck, String consumerTag, Boolean noLocal, Boolean exclusive, IDictionary`2 arguments, IAsyncBasicConsumer consumer, CancellationToken cancellationToken)
+   at RabbitMQ.Client.Impl.AutorecoveringChannel.BasicConsumeAsync(String queue, Boolean autoAck, String consumerTag, Boolean noLocal, Boolean exclusive, IDictionary`2 arguments, IAsyncBasicConsumer consumer, CancellationToken cancellationToken)
+   at SharedKernel.Infrastructure.Messaging.RabbitMQ.RabbitMqConsumer.ExecuteAsync(CancellationToken stoppingToken) in E:\YouNaSchool-ElearninngPlatform\Shared\Shared\Application\MESSAGING\RabbitMQ\RabbitMqConsumer.cs:line 63
+   at Microsoft.Extensions.Hosting.Internal.Host.TryExecuteBackgroundServiceAsync(BackgroundService backgroundService)
+
+[2026-03-20 12:30:18 | ERR] Module:  | TraceId:  | Hosting failed to start
+System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   at Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServerImpl.BindAsync(CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServerImpl.StartAsync[TContext](IHttpApplication`1 application, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.Internal.Host.<StartAsync>b__14_1(IHostedService service, CancellationToken token)
+   at Microsoft.Extensions.Hosting.Internal.Host.ForeachService[T](IEnumerable`1 services, CancellationToken token, Boolean concurrent, Boolean abortOnFirstException, List`1 exceptions, Func`3 operation)
+
+[2026-03-20 14:39:49 | INF] Module:  | TraceId:  | Initializing RabbitMQ topology for module: users
+
+[2026-03-20 14:39:49 | INF] Module:  | TraceId:  | Creating RabbitMQ connection to localhost:5672
+
+[2026-03-20 14:39:51 | INF] Module:  | TraceId:  | RabbitMQ connection established successfully
+
+[2026-03-20 14:39:51 | INF] Module:  | TraceId:  | Successfully initialized RabbitMQ topology for module: users
+
+[2026-03-20 14:39:51 | INF] Module:  | TraceId:  | Initializing RabbitMQ topology for module: auth
+
+[2026-03-20 14:39:51 | INF] Module:  | TraceId:  | Successfully initialized RabbitMQ topology for module: auth
+
+[2026-03-20 14:39:51 | INF] Module:  | TraceId:  | Initializing RabbitMQ topology for module: wallet
+
+[2026-03-20 14:39:51 | INF] Module:  | TraceId:  | Successfully initialized RabbitMQ topology for module: wallet
+
+[2026-03-20 14:39:51 | INF] Module:  | TraceId:  | Initializing RabbitMQ topology for module: notifications
+
+[2026-03-20 14:39:51 | INF] Module:  | TraceId:  | Successfully initialized RabbitMQ topology for module: notifications
+
+[2026-03-20 14:39:52 | INF] Module:  | TraceId:  | Start installing Hangfire SQL objects...
+
+[2026-03-20 14:39:58 | INF] Module:  | TraceId:  | Hangfire SQL objects installed.
+
+[2026-03-20 14:39:58 | INF] Module:  | TraceId:  | Starting RabbitMQ consumer for module: notifications
+
+[2026-03-20 14:39:58 | INF] Module:  | TraceId:  | RabbitMQ consumer started successfully for queue: notifications.queue
+
+[2026-03-20 14:39:59 | INF] Module:  | TraceId:  | Starting Hangfire Server using job storage: 'SQL Server: .@DB-ELP'
+
+[2026-03-20 14:39:59 | INF] Module:  | TraceId:  | Using the following options for SQL Server job storage: Queue poll interval: 00:00:00.
+
+[2026-03-20 14:39:59 | INF] Module:  | TraceId:  | Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+
+[2026-03-20 14:39:59 | INF] Module:  | TraceId:  | Starting Hangfire Server using job storage: 'SQL Server: .@DB-ELP'
+
+[2026-03-20 14:39:59 | INF] Module:  | TraceId:  | Using the following options for SQL Server job storage: Queue poll interval: 00:00:00.
+
+[2026-03-20 14:39:59 | INF] Module:  | TraceId:  | Using the following options for Hangfire Server:
+    Worker count: 5
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+
+[2026-03-20 14:40:00 | INF] Module:  | TraceId:  | Server desktop-9ia4c2h:28868:e448492f successfully announced in 1437.4914 ms
+
+[2026-03-20 14:40:00 | INF] Module:  | TraceId:  | Server desktop-9ia4c2h:28868:e448492f is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, SqlServerHeartbeatProcess, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+
+[2026-03-20 14:40:00 | INF] Module:  | TraceId:  | Server younaschool-server:28868:09d8e794 successfully announced in 1489.1939 ms
+
+[2026-03-20 14:40:00 | INF] Module:  | TraceId:  | Server younaschool-server:28868:09d8e794 is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, SqlServerHeartbeatProcess, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+
+[2026-03-20 14:40:01 | INF] Module:  | TraceId:  | Server younaschool-server:28868:09d8e794 all the dispatchers started
+
+[2026-03-20 14:40:01 | INF] Module:  | TraceId:  | Server desktop-9ia4c2h:28868:e448492f all the dispatchers started
+
+[2026-03-20 14:47:06 | INF] Module:  | TraceId:  | Initializing RabbitMQ topology for module: users
+
+[2026-03-20 14:47:07 | INF] Module:  | TraceId:  | Creating RabbitMQ connection to localhost:5672
+
+[2026-03-20 14:47:07 | INF] Module:  | TraceId:  | RabbitMQ connection established successfully
+
+[2026-03-20 14:47:07 | INF] Module:  | TraceId:  | Successfully initialized RabbitMQ topology for module: users
+
+[2026-03-20 14:47:07 | INF] Module:  | TraceId:  | Initializing RabbitMQ topology for module: auth
+
+[2026-03-20 14:47:07 | INF] Module:  | TraceId:  | Successfully initialized RabbitMQ topology for module: auth
+
+[2026-03-20 14:47:07 | INF] Module:  | TraceId:  | Initializing RabbitMQ topology for module: wallet
+
+[2026-03-20 14:47:07 | INF] Module:  | TraceId:  | Successfully initialized RabbitMQ topology for module: wallet
+
+[2026-03-20 14:47:07 | INF] Module:  | TraceId:  | Initializing RabbitMQ topology for module: notifications
+
+[2026-03-20 14:47:07 | INF] Module:  | TraceId:  | Successfully initialized RabbitMQ topology for module: notifications
+
+[2026-03-20 14:47:09 | INF] Module:  | TraceId:  | Start installing Hangfire SQL objects...
+
+[2026-03-20 14:47:12 | INF] Module:  | TraceId:  | Hangfire SQL objects installed.
+
+[2026-03-20 14:47:12 | INF] Module:  | TraceId:  | Starting RabbitMQ consumer for module: notifications
+
+[2026-03-20 14:47:12 | INF] Module:  | TraceId:  | RabbitMQ consumer started successfully for queue: notifications.queue
+
+[2026-03-20 14:47:12 | INF] Module:  | TraceId:  | Starting Hangfire Server using job storage: 'SQL Server: .@DB-ELP'
+
+[2026-03-20 14:47:12 | INF] Module:  | TraceId:  | Using the following options for SQL Server job storage: Queue poll interval: 00:00:00.
+
+[2026-03-20 14:47:12 | INF] Module:  | TraceId:  | Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+
+[2026-03-20 14:47:12 | INF] Module:  | TraceId:  | Starting Hangfire Server using job storage: 'SQL Server: .@DB-ELP'
+
+[2026-03-20 14:47:12 | INF] Module:  | TraceId:  | Using the following options for SQL Server job storage: Queue poll interval: 00:00:00.
+
+[2026-03-20 14:47:12 | INF] Module:  | TraceId:  | Using the following options for Hangfire Server:
+    Worker count: 5
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+
+[2026-03-20 14:47:14 | INF] Module:  | TraceId:  | Server younaschool-server:14400:f787347d successfully announced in 1093.1869 ms
+
+[2026-03-20 14:47:14 | INF] Module:  | TraceId:  | Server younaschool-server:14400:f787347d is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, SqlServerHeartbeatProcess, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+
+[2026-03-20 14:47:14 | INF] Module:  | TraceId:  | Server desktop-9ia4c2h:14400:aeb90f96 successfully announced in 1239.1332 ms
+
+[2026-03-20 14:47:14 | INF] Module:  | TraceId:  | Server younaschool-server:14400:f787347d all the dispatchers started
+
+[2026-03-20 14:47:14 | INF] Module:  | TraceId:  | Server desktop-9ia4c2h:14400:aeb90f96 is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, SqlServerHeartbeatProcess, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+
+[2026-03-20 14:47:14 | INF] Module:  | TraceId:  | Server desktop-9ia4c2h:14400:aeb90f96 all the dispatchers started
+
+[2026-03-20 14:47:30 | WRN] Module:  | TraceId: c731f75d045b40e890faa714f0708a8d | Failed to determine the https port for redirect.
+

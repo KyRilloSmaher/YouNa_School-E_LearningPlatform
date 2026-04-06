@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Users\\YouNaSchhol.Users.Application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A2EC30-E37B-4D47-A2CA-0FD047519FF5}|YouNaSchhol.Users.Application.csproj|e:\\younaschool-elearninngplatform\\modules\\users\\younaschhol.users.application\\abstractions\\persistence\\iassistantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A2EC30-E37B-4D47-A2CA-0FD047519FF5}|YouNaSchhol.Users.Application.csproj|solutionrelative:abstractions\\persistence\\iassistantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A2EC30-E37B-4D47-A2CA-0FD047519FF5}|YouNaSchhol.Users.Application.csproj|e:\\younaschool-elearninngplatform\\modules\\users\\younaschhol.users.application\\abstractions\\externalservice\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A2EC30-E37B-4D47-A2CA-0FD047519FF5}|YouNaSchhol.Users.Application.csproj|solutionrelative:abstractions\\externalservice\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8A2EC30-E37B-4D47-A2CA-0FD047519FF5}|YouNaSchhol.Users.Application.csproj|e:\\younaschool-elearninngplatform\\modules\\users\\younaschhol.users.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8A2EC30-E37B-4D47-A2CA-0FD047519FF5}|YouNaSchhol.Users.Application.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IAssistantRepository.cs",
+              "DocumentMoniker": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Users\\YouNaSchhol.Users.Application\\abstractions\\persistence\\IAssistantRepository.cs",
+              "RelativeDocumentMoniker": "abstractions\\persistence\\IAssistantRepository.cs",
+              "ToolTip": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Users\\YouNaSchhol.Users.Application\\abstractions\\persistence\\IAssistantRepository.cs",
+              "RelativeToolTip": "abstractions\\persistence\\IAssistantRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T09:19:34.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Users\\YouNaSchhol.Users.Application\\abstractions\\ExternalService\\IEmailService.cs",
+              "RelativeDocumentMoniker": "abstractions\\ExternalService\\IEmailService.cs",
+              "ToolTip": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Users\\YouNaSchhol.Users.Application\\abstractions\\ExternalService\\IEmailService.cs",
+              "RelativeToolTip": "abstractions\\ExternalService\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T09:19:30.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Users\\YouNaSchhol.Users.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Users\\YouNaSchhol.Users.Application\\Class1.cs",
+              "RelativeToolTip": "Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T09:17:39.02Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

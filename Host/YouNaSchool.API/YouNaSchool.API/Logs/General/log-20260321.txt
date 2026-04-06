@@ -1,0 +1,152 @@
+[2026-03-21 16:35:51 | INF] Module:  | TraceId:  | Initializing RabbitMQ topology for module: users
+
+[2026-03-21 16:35:51 | INF] Module:  | TraceId:  | Creating RabbitMQ connection to localhost:5672
+
+[2026-03-21 16:35:56 | INF] Module:  | TraceId:  | RabbitMQ connection established successfully
+
+[2026-03-21 16:35:59 | INF] Module:  | TraceId:  | Successfully initialized RabbitMQ topology for module: users
+
+[2026-03-21 16:35:59 | INF] Module:  | TraceId:  | Initializing RabbitMQ topology for module: auth
+
+[2026-03-21 16:35:59 | INF] Module:  | TraceId:  | Successfully initialized RabbitMQ topology for module: auth
+
+[2026-03-21 16:35:59 | INF] Module:  | TraceId:  | Initializing RabbitMQ topology for module: wallet
+
+[2026-03-21 16:35:59 | INF] Module:  | TraceId:  | Successfully initialized RabbitMQ topology for module: wallet
+
+[2026-03-21 16:35:59 | INF] Module:  | TraceId:  | Initializing RabbitMQ topology for module: notifications
+
+[2026-03-21 16:35:59 | INF] Module:  | TraceId:  | Successfully initialized RabbitMQ topology for module: notifications
+
+[2026-03-21 16:36:01 | INF] Module:  | TraceId:  | Start installing Hangfire SQL objects...
+
+[2026-03-21 16:36:08 | INF] Module:  | TraceId:  | Hangfire SQL objects installed.
+
+[2026-03-21 16:36:09 | INF] Module:  | TraceId:  | Starting RabbitMQ consumer for module: auth
+
+[2026-03-21 16:36:09 | INF] Module:  | TraceId:  | Starting RabbitMQ consumer for module: users
+
+[2026-03-21 16:36:09 | INF] Module:  | TraceId:  | Starting RabbitMQ consumer for module: wallet
+
+[2026-03-21 16:36:09 | INF] Module:  | TraceId:  | Starting RabbitMQ consumer for module: notifications
+
+[2026-03-21 16:36:09 | INF] Module:  | TraceId:  | RabbitMQ consumer started successfully for queue: notifications.queue
+
+[2026-03-21 16:36:09 | INF] Module:  | TraceId:  | RabbitMQ consumer started successfully for queue: users.queue
+
+[2026-03-21 16:36:09 | INF] Module:  | TraceId:  | RabbitMQ consumer started successfully for queue: auth.queue
+
+[2026-03-21 16:36:09 | INF] Module:  | TraceId:  | RabbitMQ consumer started successfully for queue: wallet.queue
+
+[2026-03-21 16:36:10 | INF] Module:  | TraceId:  | Starting Hangfire Server using job storage: 'SQL Server: .@DB-ELP'
+
+[2026-03-21 16:36:10 | INF] Module:  | TraceId:  | Using the following options for SQL Server job storage: Queue poll interval: 00:00:00.
+
+[2026-03-21 16:36:10 | INF] Module:  | TraceId:  | Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+
+[2026-03-21 16:36:10 | INF] Module:  | TraceId:  | Starting Hangfire Server using job storage: 'SQL Server: .@DB-ELP'
+
+[2026-03-21 16:36:10 | INF] Module:  | TraceId:  | Using the following options for SQL Server job storage: Queue poll interval: 00:00:00.
+
+[2026-03-21 16:36:10 | INF] Module:  | TraceId:  | Using the following options for Hangfire Server:
+    Worker count: 5
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+
+[2026-03-21 16:36:11 | INF] Module:  | TraceId:  | Server younaschool-server:31536:6f595384 successfully announced in 1650.339 ms
+
+[2026-03-21 16:36:11 | INF] Module:  | TraceId:  | Server desktop-9ia4c2h:31536:f56bd149 successfully announced in 1663.0849 ms
+
+[2026-03-21 16:36:11 | INF] Module:  | TraceId:  | Server younaschool-server:31536:6f595384 is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, SqlServerHeartbeatProcess, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+
+[2026-03-21 16:36:11 | INF] Module:  | TraceId:  | Server desktop-9ia4c2h:31536:f56bd149 is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, SqlServerHeartbeatProcess, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+
+[2026-03-21 16:36:12 | INF] Module:  | TraceId:  | Server younaschool-server:31536:6f595384 all the dispatchers started
+
+[2026-03-21 16:36:12 | INF] Module:  | TraceId:  | Server desktop-9ia4c2h:31536:f56bd149 all the dispatchers started
+
+[2026-03-21 16:36:14 | INF] Module:  | TraceId:  | 2 servers were removed due to timeout
+
+[2026-03-21 16:36:15 | INF] Module:  | TraceId:  | 2 servers were removed due to timeout
+
+[2026-03-21 17:03:36 | INF] Module:  | TraceId:  | Initializing RabbitMQ topology for module: users
+
+[2026-03-21 17:03:36 | INF] Module:  | TraceId:  | Creating RabbitMQ connection to localhost:5672
+
+[2026-03-21 17:03:40 | INF] Module:  | TraceId:  | RabbitMQ connection established successfully
+
+[2026-03-21 17:03:41 | INF] Module:  | TraceId:  | Successfully initialized RabbitMQ topology for module: users
+
+[2026-03-21 17:03:41 | INF] Module:  | TraceId:  | Initializing RabbitMQ topology for module: auth
+
+[2026-03-21 17:03:41 | INF] Module:  | TraceId:  | Successfully initialized RabbitMQ topology for module: auth
+
+[2026-03-21 17:03:41 | INF] Module:  | TraceId:  | Initializing RabbitMQ topology for module: wallet
+
+[2026-03-21 17:03:41 | INF] Module:  | TraceId:  | Successfully initialized RabbitMQ topology for module: wallet
+
+[2026-03-21 17:03:41 | INF] Module:  | TraceId:  | Initializing RabbitMQ topology for module: notifications
+
+[2026-03-21 17:03:41 | INF] Module:  | TraceId:  | Successfully initialized RabbitMQ topology for module: notifications
+
+[2026-03-21 17:03:42 | INF] Module:  | TraceId:  | Start installing Hangfire SQL objects...
+
+[2026-03-21 17:03:44 | INF] Module:  | TraceId:  | Hangfire SQL objects installed.
+
+[2026-03-21 17:03:44 | INF] Module:  | TraceId:  | Starting RabbitMQ consumer for module: wallet
+
+[2026-03-21 17:03:44 | INF] Module:  | TraceId:  | Starting RabbitMQ consumer for module: users
+
+[2026-03-21 17:03:44 | INF] Module:  | TraceId:  | Starting RabbitMQ consumer for module: notifications
+
+[2026-03-21 17:03:44 | INF] Module:  | TraceId:  | Starting RabbitMQ consumer for module: auth
+
+[2026-03-21 17:03:44 | INF] Module:  | TraceId:  | RabbitMQ consumer started successfully for queue: auth.queue
+
+[2026-03-21 17:03:44 | INF] Module:  | TraceId:  | RabbitMQ consumer started successfully for queue: wallet.queue
+
+[2026-03-21 17:03:44 | INF] Module:  | TraceId:  | RabbitMQ consumer started successfully for queue: notifications.queue
+
+[2026-03-21 17:03:44 | INF] Module:  | TraceId:  | RabbitMQ consumer started successfully for queue: users.queue
+
+[2026-03-21 17:03:45 | INF] Module:  | TraceId:  | Starting Hangfire Server using job storage: 'SQL Server: .@DB-ELP'
+
+[2026-03-21 17:03:45 | INF] Module:  | TraceId:  | Using the following options for SQL Server job storage: Queue poll interval: 00:00:00.
+
+[2026-03-21 17:03:45 | INF] Module:  | TraceId:  | Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+
+[2026-03-21 17:03:45 | INF] Module:  | TraceId:  | Starting Hangfire Server using job storage: 'SQL Server: .@DB-ELP'
+
+[2026-03-21 17:03:45 | INF] Module:  | TraceId:  | Using the following options for SQL Server job storage: Queue poll interval: 00:00:00.
+
+[2026-03-21 17:03:45 | INF] Module:  | TraceId:  | Using the following options for Hangfire Server:
+    Worker count: 5
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+
+[2026-03-21 17:03:46 | INF] Module:  | TraceId:  | Server desktop-9ia4c2h:47060:9992dad9 successfully announced in 1222.2965 ms
+
+[2026-03-21 17:03:46 | INF] Module:  | TraceId:  | Server desktop-9ia4c2h:47060:9992dad9 is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, SqlServerHeartbeatProcess, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+
+[2026-03-21 17:03:46 | INF] Module:  | TraceId:  | Server younaschool-server:47060:8591c324 successfully announced in 1251.3415 ms
+
+[2026-03-21 17:03:46 | INF] Module:  | TraceId:  | Server younaschool-server:47060:8591c324 is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, SqlServerHeartbeatProcess, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+
+[2026-03-21 17:03:46 | INF] Module:  | TraceId:  | Server desktop-9ia4c2h:47060:9992dad9 all the dispatchers started
+
+[2026-03-21 17:03:46 | INF] Module:  | TraceId:  | Server younaschool-server:47060:8591c324 all the dispatchers started
+
+[2026-03-21 17:03:46 | INF] Module:  | TraceId:  | 2 servers were removed due to timeout
+
+[2026-03-21 17:04:45 | WRN] Module:  | TraceId: efa6c5fcfbf3028990e52194af17b2c9 | Failed to determine the https port for redirect.
+

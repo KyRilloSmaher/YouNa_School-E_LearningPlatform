@@ -1,0 +1,2 @@
+[2026-03-22 15:11:37 | INF] Module: Wallet | TraceId: 528453c63f6cfc334d06f4855ef33f83 | Getting all wallets - Page: 1, Size: 50
+

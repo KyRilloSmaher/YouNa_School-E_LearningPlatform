@@ -1,0 +1,12 @@
+[2026-02-13 11:40:20 | INF] Module: Wallet | TraceId: 8551af9d04cce89164c479d60b408f04 | Getting all wallets - Page: 1, Size: 50
+
+[2026-02-13 11:40:20 | WRN] Module: Wallet | TraceId: 8551af9d04cce89164c479d60b408f04 | The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+
+[2026-02-13 11:40:20 | WRN] Module: Wallet | TraceId: 8551af9d04cce89164c479d60b408f04 | The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+
+[2026-02-13 12:18:48 | INF] Module: Wallet | TraceId: 0a13fb52a940d1e49833f87f3ea3247b | Getting all wallets - Page: 1, Size: 50
+
+[2026-02-13 12:18:48 | WRN] Module: Wallet | TraceId: 0a13fb52a940d1e49833f87f3ea3247b | The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+
+[2026-02-13 12:18:48 | WRN] Module: Wallet | TraceId: 0a13fb52a940d1e49833f87f3ea3247b | The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+

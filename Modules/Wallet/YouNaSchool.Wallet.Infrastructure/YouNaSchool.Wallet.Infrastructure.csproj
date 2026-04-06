@@ -1,0 +1,36 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+	  <PackageReference Include="Hangfire" />
+	  <PackageReference Include="Hangfire.SqlServer" />
+	  <PackageReference Include="MailKit" />
+	  <PackageReference Include="Microsoft.EntityFrameworkCore" />
+	  <PackageReference Include="Microsoft.EntityFrameworkCore.Design">
+		  <PrivateAssets>all</PrivateAssets>
+		  <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+	  </PackageReference>
+	  <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" />
+	  <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" />
+	  <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" />
+	  <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" />
+	  <PackageReference Include="Microsoft.Extensions.Hosting.Abstractions" />
+	  <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" />
+	  <PackageReference Include="RabbitMQ.Client" />
+	  <PackageReference Include="Stripe.net" />
+	  <PackageReference Include="System.Text.Json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Shared\Shared\Shared.csproj" />
+    <ProjectReference Include="..\..\Users\YouNaSchhol.Users.Application\YouNaSchhol.Users.Application.csproj" />
+    <ProjectReference Include="..\YouNaSchool.Wallet.Application\YouNaSchool.Wallet.Application.csproj" />
+    <ProjectReference Include="..\YouNaSchool.Wallet.Domain\YouNaSchool.Wallet.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+	<ItemGroup>
+		<PackageReference Include="AutoMapper" />
+		<PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection"  />
+		<PackageReference Include="FluentValidation" />
+		<PackageReference Include="FluentValidation.DependencyInjectionExtensions" />
+		<PackageReference Include="MediatR"  />
+	</ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Shared\Shared\Shared.csproj" />
+    <ProjectReference Include="..\..\Authuntication\YounaSchool.Authuntication.Application\YounaSchool.Authuntication.Application.csproj" />
+    <ProjectReference Include="..\YouNaSchool.Notifications.Domain\YouNaSchool.Notifications.Domain.csproj" />
+    <ProjectReference Include="..\YouNaSchool.Notifications.Infrastructure\YouNaSchool.Notifications.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

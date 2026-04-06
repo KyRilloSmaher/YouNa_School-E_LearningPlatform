@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Users\\YouNaSchool.Users.Domain\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49165A98-7FB1-3603-DE34-653758CDC97F}|YouNaSchool.Users.Domain.csproj|e:\\younaschool-elearninngplatform\\modules\\users\\younaschool.users.domain\\younaschool.users.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{49165A98-7FB1-3603-DE34-653758CDC97F}|YouNaSchool.Users.Domain.csproj|solutionrelative:younaschool.users.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49165A98-7FB1-3603-DE34-653758CDC97F}|YouNaSchool.Users.Domain.csproj|e:\\younaschool-elearninngplatform\\modules\\users\\younaschool.users.domain\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49165A98-7FB1-3603-DE34-653758CDC97F}|YouNaSchool.Users.Domain.csproj|solutionrelative:entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Users\\YouNaSchool.Users.Domain\\Entities\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Entities\\ApplicationUser.cs",
+              "ToolTip": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Users\\YouNaSchool.Users.Domain\\Entities\\ApplicationUser.cs",
+              "RelativeToolTip": "Entities\\ApplicationUser.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAkwCQAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T15:50:01.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "YouNaSchool.Users.Domain",
+              "DocumentMoniker": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Users\\YouNaSchool.Users.Domain\\YouNaSchool.Users.Domain.csproj",
+              "RelativeDocumentMoniker": "YouNaSchool.Users.Domain.csproj",
+              "ToolTip": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Users\\YouNaSchool.Users.Domain\\YouNaSchool.Users.Domain.csproj",
+              "RelativeToolTip": "YouNaSchool.Users.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-14T15:49:56.02Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

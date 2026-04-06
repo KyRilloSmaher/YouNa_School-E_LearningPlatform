@@ -1,0 +1,31 @@
+<Solution>
+  <Folder Name="/Host/" />
+  <Folder Name="/Host/YouNaSchool.API/">
+    <Project Path="Host/YouNaSchool.API/YouNaSchool.API/YouNaSchool.API.csproj" />
+  </Folder>
+  <Folder Name="/Modules/" />
+  <Folder Name="/Modules/Authuntication/">
+    <Project Path="Modules/Authuntication/YounaSchool.Authuntication.Application/YounaSchool.Authuntication.Application.csproj" Id="ed3bc3a7-ee74-42db-87c0-2583ddeda0a5" />
+    <Project Path="Modules/Authuntication/YounaSchool.Authuntication.Domain/YounaSchool.Authuntication.Domain.csproj" Id="6cf2482f-4328-4a72-a918-a310ff5a8c01" />
+    <Project Path="Modules/Authuntication/YounaSchool.Authuntication.Infrastructure/YounaSchool.Authuntication.Infrastructure.csproj" Id="f2126378-6e6a-4033-8404-5cab0deda3c9" />
+  </Folder>
+  <Folder Name="/Modules/Notifications/">
+    <Project Path="Modules/Notifications/YouNaSchool.Notifications.Application/YouNaSchool.Notifications.Application.csproj" />
+    <Project Path="Modules/Notifications/YouNaSchool.Notifications.Domain/YouNaSchool.Notifications.Domain.csproj" />
+    <Project Path="Modules/Notifications/YouNaSchool.Notifications.Infrastructure/YouNaSchool.Notifications.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/Modules/Users/">
+    <Project Path="Modules/Users/YouNaSchhol.Users.Application/YouNaSchhol.Users.Application.csproj" />
+    <Project Path="Modules/Users/YouNaSchool.Users.Domain/YouNaSchool.Users.Domain.csproj" />
+    <Project Path="Modules/Users/YouNaSchool.Users.Infrastructure/YouNaSchool.Users.Infrastructure.csproj" Id="e3f8d5c5-fdd7-4242-9b2c-1a5ff70c8036" />
+  </Folder>
+  <Folder Name="/Modules/Wallet/">
+    <Project Path="Modules/Wallet/YouNaSchool.Wallet.API/YouNaSchool.Wallet.API.csproj" />
+    <Project Path="Modules/Wallet/YouNaSchool.Wallet.Application/YouNaSchool.Wallet.Application.csproj" />
+    <Project Path="Modules/Wallet/YouNaSchool.Wallet.Domain/YouNaSchool.Wallet.Domain.csproj" />
+    <Project Path="Modules/Wallet/YouNaSchool.Wallet.Infrastructure/YouNaSchool.Wallet.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/Shared/">
+    <Project Path="Shared/Shared/Shared.csproj" />
+  </Folder>
+</Solution>

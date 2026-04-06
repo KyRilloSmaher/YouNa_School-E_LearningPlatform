@@ -1,0 +1,6 @@
+@YouNaSchool.Wallet.API_HostAddress = http://localhost:5210
+
+GET {{YouNaSchool.Wallet.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

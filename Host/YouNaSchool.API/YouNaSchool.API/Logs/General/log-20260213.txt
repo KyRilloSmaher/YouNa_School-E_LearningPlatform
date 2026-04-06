@@ -1,0 +1,68 @@
+[2026-02-13 11:38:56 | INF] Module:  | TraceId:  | Start installing Hangfire SQL objects...
+
+[2026-02-13 11:39:04 | INF] Module:  | TraceId:  | Hangfire SQL objects installed.
+
+[2026-02-13 11:39:05 | INF] Module:  | TraceId:  | Starting Hangfire Server using job storage: 'SQL Server: .@WalletDB-ELP'
+
+[2026-02-13 11:39:05 | INF] Module:  | TraceId:  | Using the following options for SQL Server job storage: Queue poll interval: 00:00:00.
+
+[2026-02-13 11:39:05 | INF] Module:  | TraceId:  | Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+
+[2026-02-13 11:39:06 | INF] Module:  | TraceId:  | Server desktop-9ia4c2h:16320:84bbbfa4 successfully announced in 601.0212 ms
+
+[2026-02-13 11:39:06 | INF] Module:  | TraceId:  | Server desktop-9ia4c2h:16320:84bbbfa4 is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, SqlServerHeartbeatProcess, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+
+[2026-02-13 11:39:06 | INF] Module:  | TraceId:  | Server desktop-9ia4c2h:16320:84bbbfa4 all the dispatchers started
+
+[2026-02-13 11:39:06 | INF] Module:  | TraceId:  | 1 servers were removed due to timeout
+
+[2026-02-13 11:40:15 | WRN] Module:  | TraceId: 2e7f2156269071eb753057c0317ce6c1 | Failed to determine the https port for redirect.
+
+[2026-02-13 11:41:34 | INF] Module:  | TraceId:  | Start installing Hangfire SQL objects...
+
+[2026-02-13 11:41:35 | INF] Module:  | TraceId:  | Hangfire SQL objects installed.
+
+[2026-02-13 11:41:35 | INF] Module:  | TraceId:  | Starting Hangfire Server using job storage: 'SQL Server: .@WalletDB-ELP'
+
+[2026-02-13 11:41:35 | INF] Module:  | TraceId:  | Using the following options for SQL Server job storage: Queue poll interval: 00:00:00.
+
+[2026-02-13 11:41:35 | INF] Module:  | TraceId:  | Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+
+[2026-02-13 11:41:35 | INF] Module:  | TraceId:  | Server desktop-9ia4c2h:13296:1eae893c successfully announced in 9.8607 ms
+
+[2026-02-13 11:41:35 | INF] Module:  | TraceId:  | Server desktop-9ia4c2h:13296:1eae893c is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, SqlServerHeartbeatProcess, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+
+[2026-02-13 11:41:35 | INF] Module:  | TraceId:  | Server desktop-9ia4c2h:13296:1eae893c all the dispatchers started
+
+[2026-02-13 12:18:18 | INF] Module:  | TraceId:  | Start installing Hangfire SQL objects...
+
+[2026-02-13 12:18:20 | INF] Module:  | TraceId:  | Hangfire SQL objects installed.
+
+[2026-02-13 12:18:21 | INF] Module:  | TraceId:  | Starting Hangfire Server using job storage: 'SQL Server: .@WalletDB-ELP'
+
+[2026-02-13 12:18:21 | INF] Module:  | TraceId:  | Using the following options for SQL Server job storage: Queue poll interval: 00:00:00.
+
+[2026-02-13 12:18:21 | INF] Module:  | TraceId:  | Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+
+[2026-02-13 12:18:21 | INF] Module:  | TraceId:  | Server desktop-9ia4c2h:4028:e917ddc4 successfully announced in 38.8739 ms
+
+[2026-02-13 12:18:21 | INF] Module:  | TraceId:  | Server desktop-9ia4c2h:4028:e917ddc4 is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, SqlServerHeartbeatProcess, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+
+[2026-02-13 12:18:21 | INF] Module:  | TraceId:  | 2 servers were removed due to timeout
+
+[2026-02-13 12:18:21 | INF] Module:  | TraceId:  | Server desktop-9ia4c2h:4028:e917ddc4 all the dispatchers started
+
+[2026-02-13 12:18:48 | WRN] Module:  | TraceId: 0a13fb52a940d1e49833f87f3ea3247b | Failed to determine the https port for redirect.
+

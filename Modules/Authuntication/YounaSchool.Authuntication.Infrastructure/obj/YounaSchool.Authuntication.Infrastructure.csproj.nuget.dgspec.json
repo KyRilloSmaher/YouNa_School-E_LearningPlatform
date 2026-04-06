@@ -1,0 +1,896 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Authuntication\\YounaSchool.Authuntication.Infrastructure\\YounaSchool.Authuntication.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Authuntication\\YounaSchool.Authuntication.Application\\YounaSchool.Authuntication.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Authuntication\\YounaSchool.Authuntication.Application\\YounaSchool.Authuntication.Application.csproj",
+        "projectName": "YounaSchool.Authuntication.Application",
+        "projectPath": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Authuntication\\YounaSchool.Authuntication.Application\\YounaSchool.Authuntication.Application.csproj",
+        "packagesPath": "C:\\Users\\NanoChip\\.nuget\\packages\\",
+        "outputPath": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Authuntication\\YounaSchool.Authuntication.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "centralPackageVersionsManagementEnabled": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\NanoChip\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Authuntication\\YounaSchool.Authuntication.Domain\\YounaSchool.Authuntication.Domain.csproj": {
+                "projectPath": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Authuntication\\YounaSchool.Authuntication.Domain\\YounaSchool.Authuntication.Domain.csproj"
+              },
+              "E:\\YouNaSchool-ElearninngPlatform\\Shared\\Shared\\Shared.csproj": {
+                "projectPath": "E:\\YouNaSchool-ElearninngPlatform\\Shared\\Shared\\Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )",
+              "versionCentrallyManaged": true
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )",
+              "versionCentrallyManaged": true
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[12.1.1, )",
+              "versionCentrallyManaged": true
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[12.1.1, )",
+              "versionCentrallyManaged": true
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.4.0, )",
+              "versionCentrallyManaged": true
+            }
+          },
+          "centralPackageVersions": {
+            "AutoMapper": "12.0.1",
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.1",
+            "BCrypt.Net-Next": "4.0.3",
+            "FluentValidation": "12.1.1",
+            "FluentValidation.AspNetCore": "11.3.1",
+            "FluentValidation.DependencyInjectionExtensions": "12.1.1",
+            "Hangfire": "1.8.23",
+            "Hangfire.SqlServer": "1.8.23",
+            "MailKit": "4.15.1",
+            "MediatR": "12.4.0",
+            "Microsoft.AspNetCore.Authentication.JwtBearer": "9.0.0",
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "9.0.13",
+            "Microsoft.AspNetCore.Mvc.ApiExplorer": "2.3.9",
+            "Microsoft.AspNetCore.Mvc.Versioning": "5.1.0",
+            "Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer": "5.1.0",
+            "Microsoft.AspNetCore.OpenApi": "9.0.3",
+            "Microsoft.EntityFrameworkCore": "9.0.13",
+            "Microsoft.EntityFrameworkCore.Design": "9.0.13",
+            "Microsoft.EntityFrameworkCore.Relational": "9.0.13",
+            "Microsoft.EntityFrameworkCore.SqlServer": "9.0.13",
+            "Microsoft.Extensions.Configuration.Abstractions": "9.0.13",
+            "Microsoft.Extensions.DependencyInjection.Abstractions": "9.0.13",
+            "Microsoft.Extensions.Hosting.Abstractions": "9.0.12",
+            "Microsoft.Extensions.Logging.Abstractions": "9.0.13",
+            "Microsoft.Extensions.Options.ConfigurationExtensions": "9.0.0",
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.23.0",
+            "RabbitMQ.Client": "7.2.0",
+            "Serilog": "4.3.1",
+            "Serilog.AspNetCore": "10.0.0",
+            "Serilog.Enrichers.Environment": "3.0.1",
+            "Serilog.Enrichers.Thread": "4.0.0",
+            "Serilog.Sinks.Console": "6.1.1",
+            "Serilog.Sinks.File": "7.0.0",
+            "Serilog.Sinks.Map": "2.0.0",
+            "Stripe.net": "50.3.0",
+            "Swashbuckle.AspNetCore": "9.0.6",
+            "Swashbuckle.AspNetCore.Annotations": "9.0.6",
+            "Swashbuckle.AspNetCore.SwaggerGen": "9.0.6",
+            "System.Text.Json": "9.0.13"
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[9.0.13, 9.0.13]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[9.0.13, 9.0.13]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[9.0.13, 9.0.13]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Authuntication\\YounaSchool.Authuntication.Domain\\YounaSchool.Authuntication.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Authuntication\\YounaSchool.Authuntication.Domain\\YounaSchool.Authuntication.Domain.csproj",
+        "projectName": "YounaSchool.Authuntication.Domain",
+        "projectPath": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Authuntication\\YounaSchool.Authuntication.Domain\\YounaSchool.Authuntication.Domain.csproj",
+        "packagesPath": "C:\\Users\\NanoChip\\.nuget\\packages\\",
+        "outputPath": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Authuntication\\YounaSchool.Authuntication.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "centralPackageVersionsManagementEnabled": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\NanoChip\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "E:\\YouNaSchool-ElearninngPlatform\\Shared\\Shared\\Shared.csproj": {
+                "projectPath": "E:\\YouNaSchool-ElearninngPlatform\\Shared\\Shared\\Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "centralPackageVersions": {
+            "AutoMapper": "12.0.1",
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.1",
+            "BCrypt.Net-Next": "4.0.3",
+            "FluentValidation": "12.1.1",
+            "FluentValidation.AspNetCore": "11.3.1",
+            "FluentValidation.DependencyInjectionExtensions": "12.1.1",
+            "Hangfire": "1.8.23",
+            "Hangfire.SqlServer": "1.8.23",
+            "MailKit": "4.15.1",
+            "MediatR": "12.4.0",
+            "Microsoft.AspNetCore.Authentication.JwtBearer": "9.0.0",
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "9.0.13",
+            "Microsoft.AspNetCore.Mvc.ApiExplorer": "2.3.9",
+            "Microsoft.AspNetCore.Mvc.Versioning": "5.1.0",
+            "Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer": "5.1.0",
+            "Microsoft.AspNetCore.OpenApi": "9.0.3",
+            "Microsoft.EntityFrameworkCore": "9.0.13",
+            "Microsoft.EntityFrameworkCore.Design": "9.0.13",
+            "Microsoft.EntityFrameworkCore.Relational": "9.0.13",
+            "Microsoft.EntityFrameworkCore.SqlServer": "9.0.13",
+            "Microsoft.Extensions.Configuration.Abstractions": "9.0.13",
+            "Microsoft.Extensions.DependencyInjection.Abstractions": "9.0.13",
+            "Microsoft.Extensions.Hosting.Abstractions": "9.0.12",
+            "Microsoft.Extensions.Logging.Abstractions": "9.0.13",
+            "Microsoft.Extensions.Options.ConfigurationExtensions": "9.0.0",
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.23.0",
+            "RabbitMQ.Client": "7.2.0",
+            "Serilog": "4.3.1",
+            "Serilog.AspNetCore": "10.0.0",
+            "Serilog.Enrichers.Environment": "3.0.1",
+            "Serilog.Enrichers.Thread": "4.0.0",
+            "Serilog.Sinks.Console": "6.1.1",
+            "Serilog.Sinks.File": "7.0.0",
+            "Serilog.Sinks.Map": "2.0.0",
+            "Stripe.net": "50.3.0",
+            "Swashbuckle.AspNetCore": "9.0.6",
+            "Swashbuckle.AspNetCore.Annotations": "9.0.6",
+            "Swashbuckle.AspNetCore.SwaggerGen": "9.0.6",
+            "System.Text.Json": "9.0.13"
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[9.0.13, 9.0.13]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[9.0.13, 9.0.13]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[9.0.13, 9.0.13]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Authuntication\\YounaSchool.Authuntication.Infrastructure\\YounaSchool.Authuntication.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Authuntication\\YounaSchool.Authuntication.Infrastructure\\YounaSchool.Authuntication.Infrastructure.csproj",
+        "projectName": "YounaSchool.Authuntication.Infrastructure",
+        "projectPath": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Authuntication\\YounaSchool.Authuntication.Infrastructure\\YounaSchool.Authuntication.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\NanoChip\\.nuget\\packages\\",
+        "outputPath": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Authuntication\\YounaSchool.Authuntication.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "centralPackageVersionsManagementEnabled": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\NanoChip\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Authuntication\\YounaSchool.Authuntication.Application\\YounaSchool.Authuntication.Application.csproj": {
+                "projectPath": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Authuntication\\YounaSchool.Authuntication.Application\\YounaSchool.Authuntication.Application.csproj"
+              },
+              "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Authuntication\\YounaSchool.Authuntication.Domain\\YounaSchool.Authuntication.Domain.csproj": {
+                "projectPath": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Authuntication\\YounaSchool.Authuntication.Domain\\YounaSchool.Authuntication.Domain.csproj"
+              },
+              "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Wallet\\YouNaSchool.Wallet.Application\\YouNaSchool.Wallet.Application.csproj": {
+                "projectPath": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Wallet\\YouNaSchool.Wallet.Application\\YouNaSchool.Wallet.Application.csproj"
+              },
+              "E:\\YouNaSchool-ElearninngPlatform\\Shared\\Shared\\Shared.csproj": {
+                "projectPath": "E:\\YouNaSchool-ElearninngPlatform\\Shared\\Shared\\Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )",
+              "versionCentrallyManaged": true
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.4.0, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[9.0.0, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.13, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.13, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.13, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.13, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[9.0.0, )",
+              "versionCentrallyManaged": true
+            }
+          },
+          "centralPackageVersions": {
+            "AutoMapper": "12.0.1",
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.1",
+            "BCrypt.Net-Next": "4.0.3",
+            "FluentValidation": "12.1.1",
+            "FluentValidation.AspNetCore": "11.3.1",
+            "FluentValidation.DependencyInjectionExtensions": "12.1.1",
+            "Hangfire": "1.8.23",
+            "Hangfire.SqlServer": "1.8.23",
+            "MailKit": "4.15.1",
+            "MediatR": "12.4.0",
+            "Microsoft.AspNetCore.Authentication.JwtBearer": "9.0.0",
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "9.0.13",
+            "Microsoft.AspNetCore.Mvc.ApiExplorer": "2.3.9",
+            "Microsoft.AspNetCore.Mvc.Versioning": "5.1.0",
+            "Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer": "5.1.0",
+            "Microsoft.AspNetCore.OpenApi": "9.0.3",
+            "Microsoft.EntityFrameworkCore": "9.0.13",
+            "Microsoft.EntityFrameworkCore.Design": "9.0.13",
+            "Microsoft.EntityFrameworkCore.Relational": "9.0.13",
+            "Microsoft.EntityFrameworkCore.SqlServer": "9.0.13",
+            "Microsoft.Extensions.Configuration.Abstractions": "9.0.13",
+            "Microsoft.Extensions.DependencyInjection.Abstractions": "9.0.13",
+            "Microsoft.Extensions.Hosting.Abstractions": "9.0.12",
+            "Microsoft.Extensions.Logging.Abstractions": "9.0.13",
+            "Microsoft.Extensions.Options.ConfigurationExtensions": "9.0.0",
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.23.0",
+            "RabbitMQ.Client": "7.2.0",
+            "Serilog": "4.3.1",
+            "Serilog.AspNetCore": "10.0.0",
+            "Serilog.Enrichers.Environment": "3.0.1",
+            "Serilog.Enrichers.Thread": "4.0.0",
+            "Serilog.Sinks.Console": "6.1.1",
+            "Serilog.Sinks.File": "7.0.0",
+            "Serilog.Sinks.Map": "2.0.0",
+            "Stripe.net": "50.3.0",
+            "Swashbuckle.AspNetCore": "9.0.6",
+            "Swashbuckle.AspNetCore.Annotations": "9.0.6",
+            "Swashbuckle.AspNetCore.SwaggerGen": "9.0.6",
+            "System.Text.Json": "9.0.13"
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[9.0.13, 9.0.13]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[9.0.13, 9.0.13]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[9.0.13, 9.0.13]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Wallet\\YouNaSchool.Wallet.Application\\YouNaSchool.Wallet.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Wallet\\YouNaSchool.Wallet.Application\\YouNaSchool.Wallet.Application.csproj",
+        "projectName": "YouNaSchool.Wallet.Application",
+        "projectPath": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Wallet\\YouNaSchool.Wallet.Application\\YouNaSchool.Wallet.Application.csproj",
+        "packagesPath": "C:\\Users\\NanoChip\\.nuget\\packages\\",
+        "outputPath": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Wallet\\YouNaSchool.Wallet.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "centralPackageVersionsManagementEnabled": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\NanoChip\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Wallet\\YouNaSchool.Wallet.Domain\\YouNaSchool.Wallet.Domain.csproj": {
+                "projectPath": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Wallet\\YouNaSchool.Wallet.Domain\\YouNaSchool.Wallet.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )",
+              "versionCentrallyManaged": true
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )",
+              "versionCentrallyManaged": true
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[12.1.1, )",
+              "versionCentrallyManaged": true
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[12.1.1, )",
+              "versionCentrallyManaged": true
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.4.0, )",
+              "versionCentrallyManaged": true
+            }
+          },
+          "centralPackageVersions": {
+            "AutoMapper": "12.0.1",
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.1",
+            "BCrypt.Net-Next": "4.0.3",
+            "FluentValidation": "12.1.1",
+            "FluentValidation.AspNetCore": "11.3.1",
+            "FluentValidation.DependencyInjectionExtensions": "12.1.1",
+            "Hangfire": "1.8.23",
+            "Hangfire.SqlServer": "1.8.23",
+            "MailKit": "4.15.1",
+            "MediatR": "12.4.0",
+            "Microsoft.AspNetCore.Authentication.JwtBearer": "9.0.0",
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "9.0.13",
+            "Microsoft.AspNetCore.Mvc.ApiExplorer": "2.3.9",
+            "Microsoft.AspNetCore.Mvc.Versioning": "5.1.0",
+            "Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer": "5.1.0",
+            "Microsoft.AspNetCore.OpenApi": "9.0.3",
+            "Microsoft.EntityFrameworkCore": "9.0.13",
+            "Microsoft.EntityFrameworkCore.Design": "9.0.13",
+            "Microsoft.EntityFrameworkCore.Relational": "9.0.13",
+            "Microsoft.EntityFrameworkCore.SqlServer": "9.0.13",
+            "Microsoft.Extensions.Configuration.Abstractions": "9.0.13",
+            "Microsoft.Extensions.DependencyInjection.Abstractions": "9.0.13",
+            "Microsoft.Extensions.Hosting.Abstractions": "9.0.12",
+            "Microsoft.Extensions.Logging.Abstractions": "9.0.13",
+            "Microsoft.Extensions.Options.ConfigurationExtensions": "9.0.0",
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.23.0",
+            "RabbitMQ.Client": "7.2.0",
+            "Serilog": "4.3.1",
+            "Serilog.AspNetCore": "10.0.0",
+            "Serilog.Enrichers.Environment": "3.0.1",
+            "Serilog.Enrichers.Thread": "4.0.0",
+            "Serilog.Sinks.Console": "6.1.1",
+            "Serilog.Sinks.File": "7.0.0",
+            "Serilog.Sinks.Map": "2.0.0",
+            "Stripe.net": "50.3.0",
+            "Swashbuckle.AspNetCore": "9.0.6",
+            "Swashbuckle.AspNetCore.Annotations": "9.0.6",
+            "Swashbuckle.AspNetCore.SwaggerGen": "9.0.6",
+            "System.Text.Json": "9.0.13"
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[9.0.13, 9.0.13]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[9.0.13, 9.0.13]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[9.0.13, 9.0.13]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Wallet\\YouNaSchool.Wallet.Domain\\YouNaSchool.Wallet.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Wallet\\YouNaSchool.Wallet.Domain\\YouNaSchool.Wallet.Domain.csproj",
+        "projectName": "YouNaSchool.Wallet.Domain",
+        "projectPath": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Wallet\\YouNaSchool.Wallet.Domain\\YouNaSchool.Wallet.Domain.csproj",
+        "packagesPath": "C:\\Users\\NanoChip\\.nuget\\packages\\",
+        "outputPath": "E:\\YouNaSchool-ElearninngPlatform\\Modules\\Wallet\\YouNaSchool.Wallet.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "centralPackageVersionsManagementEnabled": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\NanoChip\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "E:\\YouNaSchool-ElearninngPlatform\\Shared\\Shared\\Shared.csproj": {
+                "projectPath": "E:\\YouNaSchool-ElearninngPlatform\\Shared\\Shared\\Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "centralPackageVersions": {
+            "AutoMapper": "12.0.1",
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.1",
+            "BCrypt.Net-Next": "4.0.3",
+            "FluentValidation": "12.1.1",
+            "FluentValidation.AspNetCore": "11.3.1",
+            "FluentValidation.DependencyInjectionExtensions": "12.1.1",
+            "Hangfire": "1.8.23",
+            "Hangfire.SqlServer": "1.8.23",
+            "MailKit": "4.15.1",
+            "MediatR": "12.4.0",
+            "Microsoft.AspNetCore.Authentication.JwtBearer": "9.0.0",
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "9.0.13",
+            "Microsoft.AspNetCore.Mvc.ApiExplorer": "2.3.9",
+            "Microsoft.AspNetCore.Mvc.Versioning": "5.1.0",
+            "Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer": "5.1.0",
+            "Microsoft.AspNetCore.OpenApi": "9.0.3",
+            "Microsoft.EntityFrameworkCore": "9.0.13",
+            "Microsoft.EntityFrameworkCore.Design": "9.0.13",
+            "Microsoft.EntityFrameworkCore.Relational": "9.0.13",
+            "Microsoft.EntityFrameworkCore.SqlServer": "9.0.13",
+            "Microsoft.Extensions.Configuration.Abstractions": "9.0.13",
+            "Microsoft.Extensions.DependencyInjection.Abstractions": "9.0.13",
+            "Microsoft.Extensions.Hosting.Abstractions": "9.0.12",
+            "Microsoft.Extensions.Logging.Abstractions": "9.0.13",
+            "Microsoft.Extensions.Options.ConfigurationExtensions": "9.0.0",
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.23.0",
+            "RabbitMQ.Client": "7.2.0",
+            "Serilog": "4.3.1",
+            "Serilog.AspNetCore": "10.0.0",
+            "Serilog.Enrichers.Environment": "3.0.1",
+            "Serilog.Enrichers.Thread": "4.0.0",
+            "Serilog.Sinks.Console": "6.1.1",
+            "Serilog.Sinks.File": "7.0.0",
+            "Serilog.Sinks.Map": "2.0.0",
+            "Stripe.net": "50.3.0",
+            "Swashbuckle.AspNetCore": "9.0.6",
+            "Swashbuckle.AspNetCore.Annotations": "9.0.6",
+            "Swashbuckle.AspNetCore.SwaggerGen": "9.0.6",
+            "System.Text.Json": "9.0.13"
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[9.0.13, 9.0.13]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[9.0.13, 9.0.13]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[9.0.13, 9.0.13]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\YouNaSchool-ElearninngPlatform\\Shared\\Shared\\Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\YouNaSchool-ElearninngPlatform\\Shared\\Shared\\Shared.csproj",
+        "projectName": "Shared",
+        "projectPath": "E:\\YouNaSchool-ElearninngPlatform\\Shared\\Shared\\Shared.csproj",
+        "packagesPath": "C:\\Users\\NanoChip\\.nuget\\packages\\",
+        "outputPath": "E:\\YouNaSchool-ElearninngPlatform\\Shared\\Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "centralPackageVersionsManagementEnabled": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\NanoChip\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[12.1.1, )",
+              "versionCentrallyManaged": true
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[12.1.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Hangfire": {
+              "target": "Package",
+              "version": "[1.8.23, )",
+              "versionCentrallyManaged": true
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.4.0, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.13, )",
+              "versionCentrallyManaged": true
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[7.2.0, )",
+              "versionCentrallyManaged": true
+            }
+          },
+          "centralPackageVersions": {
+            "AutoMapper": "12.0.1",
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.1",
+            "BCrypt.Net-Next": "4.0.3",
+            "FluentValidation": "12.1.1",
+            "FluentValidation.AspNetCore": "11.3.1",
+            "FluentValidation.DependencyInjectionExtensions": "12.1.1",
+            "Hangfire": "1.8.23",
+            "Hangfire.SqlServer": "1.8.23",
+            "MailKit": "4.15.1",
+            "MediatR": "12.4.0",
+            "Microsoft.AspNetCore.Authentication.JwtBearer": "9.0.0",
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "9.0.13",
+            "Microsoft.AspNetCore.Mvc.ApiExplorer": "2.3.9",
+            "Microsoft.AspNetCore.Mvc.Versioning": "5.1.0",
+            "Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer": "5.1.0",
+            "Microsoft.AspNetCore.OpenApi": "9.0.3",
+            "Microsoft.EntityFrameworkCore": "9.0.13",
+            "Microsoft.EntityFrameworkCore.Design": "9.0.13",
+            "Microsoft.EntityFrameworkCore.Relational": "9.0.13",
+            "Microsoft.EntityFrameworkCore.SqlServer": "9.0.13",
+            "Microsoft.Extensions.Configuration.Abstractions": "9.0.13",
+            "Microsoft.Extensions.DependencyInjection.Abstractions": "9.0.13",
+            "Microsoft.Extensions.Hosting.Abstractions": "9.0.12",
+            "Microsoft.Extensions.Logging.Abstractions": "9.0.13",
+            "Microsoft.Extensions.Options.ConfigurationExtensions": "9.0.0",
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.23.0",
+            "RabbitMQ.Client": "7.2.0",
+            "Serilog": "4.3.1",
+            "Serilog.AspNetCore": "10.0.0",
+            "Serilog.Enrichers.Environment": "3.0.1",
+            "Serilog.Enrichers.Thread": "4.0.0",
+            "Serilog.Sinks.Console": "6.1.1",
+            "Serilog.Sinks.File": "7.0.0",
+            "Serilog.Sinks.Map": "2.0.0",
+            "Stripe.net": "50.3.0",
+            "Swashbuckle.AspNetCore": "9.0.6",
+            "Swashbuckle.AspNetCore.Annotations": "9.0.6",
+            "Swashbuckle.AspNetCore.SwaggerGen": "9.0.6",
+            "System.Text.Json": "9.0.13"
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[9.0.13, 9.0.13]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[9.0.13, 9.0.13]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[9.0.13, 9.0.13]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
